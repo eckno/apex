@@ -824,7 +824,7 @@ nav.navbar {
 /*---------- 11. Counter Section ----------*/
 
 #counter-wrap {
-    background: url(../img/backgrounds/parallax-bg.jpg) fixed 50% 50%;
+    background: url(../img/backgrounds/bgq.png) fixed 50% 50%;
     -webkit-background-size: cover;
     background-size: cover;
     padding: 50px 0px 70px;
