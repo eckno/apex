@@ -10,7 +10,7 @@
     <meta name="description" content="BitBank,multipurpose,business,agency,modern,bootstrap,bootstrap template,responsive,html,css,unique,professional,onepage,creative,template,design,web design,crypto,bitcoin,currency">
     <meta name="author" content="Dreambuzz">
 
-    <title>BitBank - Crypto currency Template</title>
+    <title>Apex Holding | Online Trading and Brokerage Services</title>
 
     <link href="img/assets/favicon.ico" rel="icon" type="image/ico">
 
@@ -52,41 +52,80 @@
             </div>
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                 <ul class="nav navbar-nav">
-                    <li>
-                        <a data-scroll href="index.html">Home</a>
-                    </li>
-                    <li>
-                        <a data-scroll href="service.html">Services</a>
-                    </li>
-                    <li>
-                        <a data-scroll href="about.html">About</a>
-                    </li>
-
-                    <li>
-                        <a data-scroll href="index.html#features">Features</a>
-                    </li>
-
-                    <li>
-                        <a data-scroll href="team.html">Team</a>
-                    </li>
-                    <li>
-                        <a data-scroll href="blog.html">Blog</a>
-                    </li>
-                    <li class="dropdown">
-			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Pages<i class="fa fa-angle-down"></i></a>
+                <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">WHY APEX HOLDINGS <i class="fa fa-angle-down"></i></a>
 				         <ul class="dropdown-menu" role="menu">
-                            <li><a href="about.html" class="page-scroll">About</a></li>
-                            <li><a href="service.html" class="page-scroll">Services</a></li>
-                            <li><a href="team.html" class="page-scroll">Team</a></li>
-                            <li><a href="blog.html" class="page-scroll">Blog</a></li>
-                            <li><a href="contact.html" class="page-scroll">Contact</a></li>
+                            <li><a href="overview1.php" class="page-scroll">OVERVIEW</a></li>
+                            <li><a href="about.php" class="page-scroll">ABOUT</a></li>
+                            <li><a href="award.php" class="page-scroll">AWARDS</a></li>
                         </ul>
                     </li>
-                     <li>
-                        <a data-scroll href="contact.html">Contact</a>
+                    <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">TRADING PRODUCTS <i class="fa fa-angle-down"></i></a>
+				         <ul class="dropdown-menu" role="menu">
+                            <li><a href="overview2.php" class="page-scroll">OVERVIEW</a></li>
+                            <li><a href="stocks.php" class="page-scroll">STOCKS</a></li>
+                            <li><a href="etfs.php" class="page-scroll">ETFs</a></li>
+                            <li><a href="ipo.php" class="page-scroll">IPO TRADING PLATFORM</a></li>
+                            <li><a href="options.php" class="page-scroll">OPTIONS</a></li>
+                            <li><a href="futures.php" class="page-scroll">FUTURES</a></li>
+                            <li><a href="futuresopt.php" class="page-scroll">FUTURES OPTIONS</a></li>
+                            <li><a href="crypto.php" class="page-scroll">CRYPTO</a></li>
+                            <li><a href="mutual.php" class="page-scroll">MUTUAL FUNDS</a></li>
+                            <li><a href="bonds.php" class="page-scroll">BONDS</a></li>
+                        </ul>
                     </li>
-                    <li class="quote">
-                        <a href="#">Quote Now</a>
+                    <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">PLATFORMS & TOOLS <i class="fa fa-angle-down"></i></a>
+				         <ul class="dropdown-menu" role="menu">
+                            <li><a href="introduction.php" class="page-scroll">INTRODUCTION</a></li>
+                            <li><a href="desktop.php" class="page-scroll">DESKTOP</a></li>
+                            <li><a href="web.php" class="page-scroll">WEB TRADING</a></li>
+                            <li><a href="mobile.php" class="page-scroll">MOBILE APPS</a></li>
+                            <li><a href="futuresp.php" class="page-scroll">FUTURES PLUS</a></li>
+                            <li><a href="simulated.php" class="page-scroll">SIMULATED TRADING</a></li>
+                            <li><a href="tscrypto.php" class="page-scroll">TSCRYPTO</a></li>
+                            <li><a href="oeq.php" class="page-scroll">ORDER EXECUTION QUALITY</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">ACCOUNTS <i class="fa fa-angle-down"></i></a>
+				         <ul class="dropdown-menu" role="menu">
+                            <li><a href="account.php" class="page-scroll">ACCOUNTS HOME</a></li> <br/>
+                            <div class="text-center">
+                               <b>TRADING ACCOUNTS</b>
+                            </div>
+                            <li><a href="" class="page-scroll"></a></li>
+                            <li><a href="individual.php" class="page-scroll">INDIVIDUAL & JOINT</a></li>
+                            <li><a href="retire.php" class="page-scroll">RETIREMENT</a></li>
+                            <li><a href="entity.php" class="page-scroll">ENTITY</a></li>
+                            <li><a href="fund.php" class="page-scroll">FUNDING INSTRUCTIONS</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">PRICING <i class="fa fa-angle-down"></i></a>
+				         <ul class="dropdown-menu" role="menu">
+                            <li><a href="commissions.php" class="page-scroll">COMMISSIONS</a></li>
+                            <li><a href="margin.php" class="page-scroll">MARGIN RATES</a></li>
+                            <li><a href="service.php" class="page-scroll">SERVICE FEES</a></li>
+                            <li><a href="market.php" class="page-scroll">MARKET DATA</a></li>
+                            <li><a href="fmr.php" class="page-scroll">FUTURE MARGIN RATES</a></li>
+                            <li><a href="omr.php" class="page-scroll">OPTIONS MARGIN REQUIREMENTS</a></li>
+                            <li><a href="eecr.php" class="page-scroll">EXCHANGE EXECUTION AND CLEARING FEES </a></li>
+                            <li><a href="promo.php" class="page-scroll">PROMOTIONS</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">LEARN <i class="fa fa-angle-down"></i></a>
+				         <ul class="dropdown-menu" role="menu">
+                            <li><a href="lh.php" class="page-scroll">LEARN HOME</a></li>
+                            <li><a href="ntt.php" class="page-scroll">NEW TO TRADE</a></li>
+                            <li><a href="ltt.php" class="page-scroll">LEARN TO TRADE</a></li>
+                            <li><a href="uah.php" class="page-scroll">USING APEX HOLDINGS</a></li>
+                            <li><a href="faqs.php" class="page-scroll">FAQs</a></li>
+                        </ul>
                     </li>
                 </ul>
             </div>
@@ -99,25 +138,26 @@
     <section id="hero" class="hero-main parallax ">
         <div class="hero-overlay">
             <div class="background-image">
-                <img src="img/backgrounds/bg3.jpg" alt="#">
+                <img src="img/backgrounds/pip1.jpg" alt="#">
             </div>
         </div>
         <div class="hero-container container">
             <div class="hero-content">
                 <div class="col-sm-12 m-auto text-center white fadeHero">
-                    <h6 class="subheading">Welcome to</h6>
-                    <h1 class="h1-lg mb10 text-uppercase">BitBank</h1>
-                    <ul class="list-inline banner-info">
+                    <h6 class="subheading">At Apex Holdings,
+                                         Crypto is Easy.</h6>
+                    <h1 class="h1-lg mb10 text-uppercase">APEX HOLDINGS</h1>
+                    <!-- <ul class="list-inline banner-info">
                         <li><span>4.8 </span> Million
                             <br>Transactions</li>
                         <li><span>16 </span> Million
                             <br>Wallet</li>
                         <li><span>26 </span> Countries
                             <br>Served</li>
-                    </ul>
-                    <h5 class="lead h5-md mt30 mb20">Unordinary digital agency crafting sophisticated and<br> eccentric stuff that will leave you speechless</h5>
-                    <a href="#services" class="btn btn-hero btn-circle">Services</a>
-                    <a href="#faq" class="btn btn-white btn-circle">Join Now</a>
+                    </ul> -->
+                    <h5 class="lead h5-md mt30 mb20">Access more markets from a single account</h5>
+                    <a href="login.php" class="btn btn-hero btn-circle">LOG IN</a>
+                    <a href="signin.php" class="btn btn-white btn-circle">OPEN ACCOUNT</a>
                 </div>
             </div>
         </div>
@@ -130,9 +170,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="heading m-auto text-center ">
-                        <h2 class="f-xbold">Services we provide</h2>
+                        <h2 class="f-xbold">You trade it.
+                                     <br/> <span>We have it.</span></h2>
                         <hr class="seperator">
-                        <p>With a belief that culture drives commerce, we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action. Our specialty of connecting brand, culture, and commerce has earned us a big reputation.</p>
                     </div>
                 </div>
             </div>
@@ -140,12 +180,13 @@
                 <div class="col-md 4 col-sm-4">
                     <div class="service-box text-center">
                         <div class="icon-box service-icon icon-lg">
-                            <i class="icon ion-android-sync"></i>
+                        <i class="icon ion-chevron-up"></i>
                         </div>
                         <div class="service-inner">
-                            <h4>Bitcoin <span>mining</span></h4>
-                            <p>Vllo eius voluptate quidem! Iste odit vel perferendis atque nisi iusto dolore eaque.</p>
-                            <a href="#" class="read-more">Read More</a>
+                            <h4>IPOs <span></span></h4>
+                            <p>Seize the opportunity to secure your stake in the promising companies of today, 
+                                well before their shares become available on the market.</p>
+                            <a href="ipo.php" class="read-more">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -155,21 +196,59 @@
                             <i class="icon ion-android-share"></i>
                         </div>
                         <div class="service-inner">
-                            <h4>Bitcoin <span>Transaction</span></h4>
-                            <p>Vllo eius voluptate quidem! Iste odit vel perferendis atque nisi iusto dolore eaque.</p>
-                            <a href="#" class="read-more">Read More</a>
+                            <h4>Options <span></span></h4>
+                            <p>Leverage options trading with our toolkit and educational resources for strategies and insights.</p>
+                            <a href="options.php" class="read-more">Read More</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md 4 col-sm-4">
                     <div class="service-box text-center">
                         <div class="icon-box service-icon icon-lg">
-                            <i class="icon ion-android-bicycle"></i>
+                        <i class="icon ion-stats-bars"></i>
                         </div>
                         <div class="service-inner ">
-                            <h4>Bitcoin <span>Exchange</span></h4>
-                            <p>Vllo eius voluptate quidem! Iste odit vel perferendis atque nisi iusto dolore eaque.</p>
-                            <a href="#" class="read-more">Read More</a>
+                            <h4>Stocks<span></span></h4>
+                            <p>Experience the thrill of trading equities without paying any commissions*
+                                 by leveraging our cutting-edge, award-winning trading technology..</p>
+                            <a href="stocks.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md 4 col-sm-4">
+                    <div class="service-box text-center">
+                        <div class="icon-box service-icon icon-lg">
+                        <i class="icon ion-arrow-graph-up-right"></i>
+                        </div>
+                        <div class="service-inner">
+                            <h4>ETFs <span></span></h4>
+                            <p>Explore over 2,000 commission-free* ETFs and access essential tools to fuel your trading ideas.</p>
+                            <a href="etfs.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md 4 col-sm-4">
+                    <div class="service-box text-center active">
+                        <div class="icon-box service-icon icon-lg">
+                             <i class="icon ion-pie-graph"></i>
+                        </div>
+                        <div class="service-inner">
+                            <h4>Mutual Funds <span></span></h4>
+                            <p>Diversify and simplify your investments with a selection of 2,000 Mutual Funds.</p>
+                            <a href="mutual.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md 4 col-sm-4">
+                    <div class="service-box text-center">
+                        <div class="icon-box service-icon icon-lg">
+                        <i class="icon ion-cash"></i>
+                        </div>
+                        <div class="service-inner">
+                            <h4>Crypto <span></span></h4>
+                            <p>Trade a wide range of cryptocurrencies including 
+                                Bitcoin, Litecoin, Ethereum, Bitcoin Cash, XRP, and over 7+ currency pairings.</p>
+                            <a href="crypto.php" class="read-more">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -177,45 +256,131 @@
         </div>
     </section>
     <!-- End Service Section -->
+    
+ <!-- Start parallax Section --->
+ <section id="parallax">
+       <div class="overlay-bg"></div>
+        <div class="container">
+            <div class="col-sm-8 text-center m-auto pt100 pb100 border-top">
+                <div class="white text-center parallax-info">
+                    <h1 class="mb10 lspacing">Develop a robust trading plan with the advanced analytics provided by Apex Holdings.</h1>
+                    <h4>Access powerful trading tools without a brokerage account</h4>
 
-    <!-- Start About Section -->
-    <section id="about" class="pb60">
-        <div class="col-md-6 hidden-xs">
-            <div class="about-bg"></div>
+                    <p>Experience the ultimate trading platform for stocks, ETFs, options, and futures. 
+                        Our award-winning desktop platform offers the unrivaled power, speed, and flexibility 
+                        that active traders require. Starting at just $99 per month, 
+                        our plans seamlessly integrate with your preferred broker for a seamless trading experience.</p>
+                        <a href="about.php" class="btn btn-black ">Read More</a>
+                </div>
+            </div>
         </div>
+    </section>
+    <!--End Parallax Section -->
+    
+    <!-- Start  Feature Section -->
+    <section id="features" class="bg-gray section-padding">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-sm-6">
-                    <div class="about-wrap">
-                        <h5 class="subheading">About us</h5>
-                        <h3>Secure &amp; Easy Way to Trade Bitcoin</h3>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Perspiciatis unde omnis iste natus error sit.</p>
-                        <ul class="about-info-list">
-                            <li><i class="icon ion-checkmark"></i> Trusted worldwide.</li>
-                            <li><i class="icon ion-checkmark"></i> Securee Wallet service.</li>
-                            <li><i class="icon ion-checkmark"></i> Clean Modern Design.</li>
-                            <li><i class="icon ion-checkmark"></i> Bunch of Experts.</li>
-                            <li><i class="icon ion-checkmark"></i> Lots Of Usefull Features.</li>
-                        </ul>
-                        
-                        <a href="#" class="btn btn-black ">Join Now</a>
+                <div class="heading m-auto text-center ">
+                    <h2 class="f-xbold">Why Apex Holdings ?</h2>
+                    <hr class="seperator">
+                    <p>Whether you're a new trader or a seasoned professional, discover the complete package
+                         of robust trading technology, online brokerage services,
+                         and comprehensive trading education, all conveniently available in one place.</p>
+                </div>
+            </div>
+            <div class="row mb50">
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-icon">
+                            <img src="img/service/service-1.png" alt="" class="img-responsive">
+                        </div>
+                        <div class="feature-inner">
+                            <h4>Learn</h4>
+                            <p>Learn the basics of the markets and trading stocks, futures, options, and crypto.</p>
+                            <a href="lh.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-icon">
+                            <img src="img/service/service-2.png" alt="" class="img-responsive">
+                        </div>
+                        <div class="feature-inner">
+                            <h4>Customer Service</h4>
+                            <p>Get the support when you need it.</p>
+                            <a href="support.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-icon">
+                            <img src="img/service/service-3.png" alt="" class="img-responsive">
+                        </div>
+                        <div class="feature-inner">
+                            <h4>Accounts</h4>
+                            <p>Select from a variety of account types designed to meet your needs.</p>
+                            <a href="account.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                 <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-icon">
+                            <img src="img/service/service-4.png" alt="" class="img-responsive">
+                        </div>
+                        <div class="feature-inner">
+                            <h4>Pricing</h4>
+                            <p>Spend your time trading, not wondering what it costs.</p>
+                            <a href="commissions.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-icon">
+                            <img src="img/service/service-5.png" alt="" class="img-responsive">
+                        </div>
+                        <div class="feature-inner">
+                            <h4>Platforms</h4>
+                            <p>Spend your time trading, not wondering what it costs.</p>
+                            <a href="introduction.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-icon">
+                            <img src="img/service/service-6.png" alt="" class="img-responsive">
+                        </div>
+                        <div class="feature-inner">
+                            <h4>Products</h4>
+                            <p>One size never fits all. Which is why we offer a variety of 
+                                account types to meet the needs of individual traders, etc.</p>
+                            <a href="bonds.php" class="read-more">Read More</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- End About Section -->
-
-    <!-- Start HOw It Works Section -->
+    <!-- End  Feature Section -->
+     
+     <!-- Start HOw It Works Section -->
     <section id="howorks">
         <div class="bg-feature work-bg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="heading m-auto text-center ">
-                            <h2 class="f-xbold">How it Works</h2>
+                            <h2 class="f-xbold">Spend your time trading,<br/>
+                                       not wondering what it costs.</h2>
                             <hr class="seperator">
-                            <p>With a belief that culture drives commerce, we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action. Our specialty of connecting brand, culture, and commerce has earned us a big reputation.</p>
+                            <p>Take a fresh look at the simplified zero commissions pricing for stocks, options and futures.</p>
                         </div>
                     </div>
                 </div>
@@ -232,8 +397,11 @@
                                     <div class="icon-box work-icon icon-lg">
                                         <img src="img/icon/icon1.png" alt="" class="img-responsive">
                                     </div>
-                                    <h4>create your wallet</h4>
-                                    <p>Capitalise on low hanging fruit to identify a ballpark value added activity to beta test.</p>
+                                    <h4>Halal Investing</h4>
+                                    <p> $200 <br>
+                                        As low as 200 USD per contract
+                                    </p>
+                                    <a href="web.php" class="read-more">Read More</a>
                                 </div>
                             </div>
 
@@ -242,8 +410,10 @@
                                     <div class="icon-box work-icon icon-lg">
                                         <img src="img/icon/icon2.png" alt="" class="img-responsive">
                                     </div>
-                                    <h4>make payments</h4>
-                                    <p>Capitalise on low hanging fruit to identify a ballpark value added activity to beta test.</p>
+                                    <h4>Real Estates</h4>
+                                    <p> $5000 <br/>
+                                     As low as 5000 USD per contract </p>
+                                    <a href="lh.php" class="read-more">Read More</a>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-4">
@@ -251,9 +421,10 @@
                                     <div class="icon-box work-icon icon-lg">
                                         <img src="img/icon/icon3.png" alt="" class="img-responsive">
                                     </div>
-                                    <h4>Buy or Sell Orders</h4>
-                                    <p>Capitalise on low hanging fruit to identify a ballpark value added activity to beta test.</p>
-                                </div>
+                                    <h4>stocks</h4>
+                                    <p> $100 <br/>
+                                      Per trade</p>
+                                    <a href="commissions.php" class="read-more">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -261,678 +432,50 @@
             </div>
         </div>
     </section>
-    <!-- End HOw It Works Section -->
-
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="heading m-auto text-center ">
-                    <h2 class="f-xbold">Why Choose Bitcoin</h2>
-                    <hr class="seperator">
-                    <p>With a belief that culture drives commerce, we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action. Our specialty of connecting brand, culture, and commerce has earned us a big reputation.</p>
-                </div>
-            </div>
-            <div class="row mb50">
-                <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-1.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Safe and Secure</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-2.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Make Payment</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-3.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Secure Wallet</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                 <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-4.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Higher Availibilty</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-5.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Recurring Buying</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-6.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Instant Exchnage</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+     <!--End HOw It Works Section-->
+ <!-- Start About Section -->
+ <section id="about" class="pb60">
+        <div class="col-md-6 hidden-xs">
+            <div class="about-bg"></div>
         </div>
-    </section>
-    <!-- End  Feature Section -->
-    
-    <!-- Start Testimonial Section -->
-    <section id="parallax-contact" class="section-padding">
         <div class="container">
             <div class="row">
-                <div class="col-md-12 col-sm-12 ">
-                    <div class="clients text-center">
-                        <h3>Trusted Worldwide</h3>
-                        <p>Get latest testimonial update</p>
-                    </div>
-                </div>
-            </div><!--   1st row end-->
-           
-            <div class="row">
-                <div class="col-md-8 m-auto clients-wrap">
-                    <div class="row">
-                        <div class="col-md-3 col-sm-6">
-                            <div class="client-logo">
-                                <img src="img/partner/partner1.png" alt="" class="img-responsive center-block">
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="client-logo">
-                               <img src="img/partner/partner2.png" alt="" class="img-responsive center-block">
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-26">
-                            <div class="client-logo">
-                                <img src="img/partner/partner3.png" alt="" class="img-responsive center-block">
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="client-logo">
-                                <img src="img/partner/partner2.png" alt="" class="img-responsive center-block">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div><!--   2nd row end-->
-            
-            <div class="row">
-               <div class="col-md-9 m-auto">
-                <div class="carousel slide" id="testimonial-carousel" data-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="item active">
-                            <div class="row">
-                                <div class="col-md-6 col-sm-6">
-                                    <div class="testimonial-wrap">
-                                        <p>Beatae fugit fugiat aperiam odio aliquid obcaecati ad, cupiditate sequi repudiandae necessitatibus minus debitis officia maxime id sint deserunt, quia quis mollitia.</p>
-                                        
-                                        <img src="img/about/tm2.jpg" alt="" class="img-responsive">
-                                        <div class="client-info">
-                                            <h4>Nikol Tin</h4>
-                                            <p>Senior Consutant ,Softcorner INc</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6">
-                                    <div class="testimonial-wrap">
-                                        <p>Beatae fugit fugiat aperiam odio aliquid obcaecati ad, cupiditate sequi repudiandae necessitatibus minus debitis officia maxime id sint deserunt, quia quis mollitia.</p>
-                                        
-                                        <img src="img/about/tm3.jpg" alt="" class="img-responsive">
-                                        <div class="client-info">
-                                            <h4>Martin Guptil</h4>
-                                            <p>Consutant ,Softcorner INc</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-6 col-sm-6">
-                                    <div class="testimonial-wrap">
-                                        <p>Beatae fugit fugiat aperiam odio aliquid obcaecati ad, cupiditate sequi repudiandae necessitatibus minus debitis officia maxime id sint deserunt, quia quis mollitia.</p>
-                                        
-                                        <img src="img/about/tm4.jpg" alt="" class="img-responsive">
-                                        <div class="client-info">
-                                            <h4>Nikol Tin</h4>
-                                            <p>Senior Consutant ,Softcorner INc</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6">
-                                    <div class="testimonial-wrap">
-                                        <p>Beatae fugit fugiat aperiam odio aliquid obcaecati ad, cupiditate sequi repudiandae necessitatibus minus debitis officia maxime id sint deserunt, quia quis mollitia.</p>
-                                        
-                                        <img src="img/about/tm.jpg" alt="" class="img-responsive">
-                                        <div class="client-info">
-                                            <h4>Martin Guptil</h4>
-                                            <p>Consutant ,Softcorner INc</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Testimonial Section -->
-    
-    <!-- Start parallax Section -->
-    <section id="parallax">
-       <div class="overlay-bg"></div>
-        <div class="container">
-            <div class="col-sm-8 text-center m-auto pt100 pb100 border-top">
-                <div class="white text-center parallax-info">
-                    <h4 class="mb10 lspacing">Give Us A Call</h4>
-                    <h1>+1 92-126-386</h1>
-
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eum dolor, vel blanditiis obcaecati inventore eos, distinctio molestiae ad veritatis dicta, sed corporis doloremque animi necessitatibus! Ratione totam nemo ea.</p>
-
-                    <ul class="social-icons fadeIn">
-                        <li><a href="#"><i class="fa fa-facebook white"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter white"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram white"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus white"></i></a></li>
-                        <li><a href="#"><i class="fa fa-behance white"></i></a></li>
-                        <li><a href="#"><i class="fa fa-dribbble white"></i></a></li>
-                    </ul>
-                    <h6>we don't <span class="highlight">enclose</span> your information with anyone.</h6>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Parallax Section --> 
-    
-    <!-- Start Price chart Section --> 
-    <section id="price" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                     <div class="heading m-auto text-center ">
-                        <h2 class="f-xbold">Updated Price rate</h2>
-                        <hr class="seperator">
-                        <p>With a belief that culture drives commerce, we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action. Our specialty of connecting brand, culture, and commerce has earned us a big reputation.</p>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="row">
-               <div class="col-md-6">
-                   <div class="price-chart-img">
-                       <img src="img/about/chart.jpg" alt="" class="img-responsive">
-                   </div>
-               </div>
                 <div class="col-md-6 col-sm-6">
-                    <div class="price-chart">
+                    <div class="about-wrap">
+                        <h5 class="subheading">About us</h5>
+                        <h3>What We Do</h3>
+                        <p>Apex Holdings delivers cutting-edge trading technology and online electronic brokerage
+                             services to both active individual and institutional traders worldwide. Our innovative
+                              trading and analysis platform grants seamless access to major U.S. exchanges and market
+                               centers with just one click. With a wide range of products available, clients can design, test, optimize, monitor, 
+                            and automate their own custom equities, options, and futures trading strategies.</p>
+                            <p>With Apex Holdings, clients gain access to a suite of fully customizable market monitoring, 
+                                charting, and analysis tools, empowering them to identify and capitalize on trading opportunities
+                                 with speed and precision. Our groundbreaking Apex Holdings TradingApp® Store presents a diverse 
+                                 collection of custom Tradestation-compatible software products, including indicators, strategies, 
+                                 and other apps, further enhancing the capabilities of our platform. </p>
+                        <!-- <ul class="about-info-list">
+                            <li><i class="icon ion-checkmark"></i> Trusted worldwide.</li>
+                            <li><i class="icon ion-checkmark"></i> Securee Wallet service.</li>
+                            <li><i class="icon ion-checkmark"></i> Clean Modern Design.</li>
+                            <li><i class="icon ion-checkmark"></i> Bunch of Experts.</li>
+                            <li><i class="icon ion-checkmark"></i> Lots Of Usefull Features.</li>
+                        </ul> -->
                         
-                    <table class="table table-striped table-hover text-left">
-                        <thead>
-                        <tr>
-                            <th>Cryptocurrency</th>
-                            <th>Price</th>
-                            <th>24h % Change</th>
-                            <th>24h Volume (coin)</th>
-                            <th>Supply</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td><img src="img/coin/1.png" class="currency-icon" alt="">Bitcoin</td>
-                            <td>9,290.06 $</td>
-                            <td class="up">14.44%</td>
-                            <td>218,087 BTC</td>
-                            <td>923,629</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/2.png" class="currency-icon" alt="">Ethereum</td>
-                            <td>407.13 $</td>
-                            <td class="up">16.17%</td>
-                            <td>1,223,367 ETH</td>
-                            <td>663,133</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/3.png" class="currency-icon" alt="">Exchange Union</td>
-                            <td>7.47 $</td>
-                            <td class="down">-1.09%</td>
-                            <td>3,352 XUC</td>
-                            <td>427,132</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/4.png" class="currency-icon" alt="">Ripple</td>
-                            <td>0.22 $</td>
-                            <td class="up">20.80%</td>
-                            <td>211,418,299 XRP</td>
-                            <td>719,280</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/5.png" class="currency-icon" alt="">Veritaseum</td>
-                            <td>84.22 $</td>
-                            <td class="down">-14.56%</td>
-                            <td>36 VERI	</td>
-                            <td>218,887</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/6.png" class="currency-icon" alt="">DigitalCash</td>
-                            <td>709.31 $</td>
-                            <td class="down">-1.18%</td>
-                            <td>125,361 DASH</td>
-                            <td>427,132</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/7.png" class="currency-icon" alt="">Monero</td>
-                            <td>78.97 $</td>
-                            <td class="up">20.55%	</td>
-                            <td>2,281,288 LTC</td>
-                            <td>719,280</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/8.png" class="currency-icon" alt=""> Litecoin</td>
-                            <td>156.32 $</td>
-                            <td class="up">1.18%</td>
-                            <td>255,226 XMR</td>
-                            <td>218,887</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                
+                        <a href="about.php" class="btn btn-black ">Read More</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- End Price Chart Section -->
-     
-     <!-- Start Counter Section --> 
-     <section id="counter-wrap">
-         <div class="container">
-             <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-project-complete">
-                        <i class="icon ion-thumbsup"></i>
-                        <h3>project complete</h3>
-                        <h2 class="counter-num">1200</h2>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-project-complete">
-                        <i class="icon ion-ios-people"></i>
-                        <h3>Happy Clients</h3>
-                        <h2 class="counter-num">1000</h2>
-
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-project-complete">
-                        <i class="icon ion-android-globe"></i>
-                        <h3>Line of Work</h3>
-                        <h2 class="counter-num">56090</h2>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-project-complete">
-                        <i class="fa fa-angellist"></i>
-                        <h3>Awards won</h3>
-                        <h2 class="counter-num">31</h2>
-                    </div>
-                </div>
-             </div>
-         </div>
-     </section>
-     <!-- End Counter Section --> 
-    
-     <!-- Start Team Section -->
-     <section id="team" class="section-padding ">
-         <div class="container">
-             <div class="row">
-                  <div class="col-md-12">
-                     <div class="heading m-auto text-center ">
-                        <h2 class="f-xbold">Excellent Team Workers</h2>
-                        <hr class="seperator">
-                        <p>With a belief that culture drives commerce, we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action. Our specialty of connecting brand, culture, and commerce has earned us a big reputation.</p>
-                    </div>
-                </div>
-             </div>
-             
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="img/team/img-1.jpg" alt="Team image">
-                        </div>
-                        <h3 class="title">Williamson</h3>
-                        <span class="post">Web Developer</span>
-                        <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
-                            <li><a href="#" class="fa fa-twitter"></a></li>
-                            <li><a href="#" class="fa fa-google-plus"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="img/team/img-2.jpg" alt="Team image">
-                        </div>
-                        <h3 class="title">Kristiana</h3>
-                        <span class="post">Web Designer</span>
-                        <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
-                            <li><a href="#" class="fa fa-twitter"></a></li>
-                            <li><a href="#" class="fa fa-google-plus"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="img/team/img-3.jpg" alt="Team image">
-                        </div>
-                        <h3 class="title">Williamson</h3>
-                        <span class="post">Web Developer</span>
-                        <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
-                            <li><a href="#" class="fa fa-twitter"></a></li>
-                            <li><a href="#" class="fa fa-google-plus"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="img/team/img-4.jpg" alt="Team image">
-                        </div>
-                        <h3 class="title">Kristiana</h3>
-                        <span class="post">Web Designer</span>
-                        <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
-                            <li><a href="#" class="fa fa-twitter"></a></li>
-                            <li><a href="#" class="fa fa-google-plus"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-         </div>
-     </section> 
-     <!-- End Team Section --> 
-     
-     <!-- Start Blog Section --> 
-     <section id="blog" class="section-padding bg-gray">
-         <div class="container">
-             <div class="row">
-                 <div class="col-md-12">
-                     <div class="heading m-auto text-center ">
-                        <h2 class="f-xbold">Recent Blog Update</h2>
-                        <hr class="seperator">
-                        <p>With a belief that culture drives commerce, we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action. Our specialty of connecting brand, culture, and commerce has earned us a big reputation.</p>
-                    </div>
-                </div>
-             </div>
-             
-             <div class="row">
-                 <div class="col-md-4 col-sm-4">
-                     <div class="blog-single">
-                         <img src="img/blog/blog_1.jpg" alt="" class="img-responsive">
-                         <div class="blog-inner">
-                             <a href="#"><h4>Make a profitable busines with us...</h4></a>
-                             
-                             <ul class="list-inline blog-info">
-                                 <li><a href="#"><i class="fa fa-user"></i> Mike</a></li>
-                                 <li><a href="#"><i class="fa fa-calendar"></i>17 jan 2018</a></li>
-                                 <li><a href="#"><i class="fa fa-comments"></i> 5</a></li>
-                                 <li><a href="#"><i class="fa fa-heart"></i> 20</a></li>
-                                 <li><a href="#"><i class="fa fa-share"></i> 8 </a></li>
-                             </ul>
-                            
-                            
-                             <p>Perspiciatis maxime illo officiis modi, quasi molestiae molestias reiciendis repellendus, quaerat, expedita ea eveniet omnis illum accusantium. Adipisci eos vel, rem harum!</p>
-                             <a href="#" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                             
-                         </div>
-                     </div>
-                 </div>
-                 
-                 <div class="col-md-4 col-sm-4">
-                     <div class="blog-single">
-                         <img src="img/blog/blog_2.jpg" alt="" class="img-responsive">
-                         <div class="blog-inner">
-                             <a href="#"><h4>Bitcoin crytpcurrency is now popular ...</h4></a>
-                             <ul class="list-inline blog-info">
-                                 <li><a href="#"><i class="fa fa-user"></i> Mike</a></li>
-                                 <li><a href="#"><i class="fa fa-calendar"></i>17 jan 2018</a></li>
-                                 <li><a href="#"><i class="fa fa-comments"></i> 5</a></li>
-                                 <li><a href="#"><i class="fa fa-heart"></i> 20</a></li>
-                                 <li><a href="#"><i class="fa fa-share"></i> 8 </a></li>
-                             </ul>
-                             <p>Perspiciatis maxime illo officiis modi, quasi molestiae molestias reiciendis repellendus, quaerat, expedita ea eveniet omnis illum accusantium. Adipisci eos vel, rem harum!</p>
-                             <a href="#" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                             
-                         </div>
-                     </div>
-                 </div>
-                 
-                 <div class="col-md-4 col-sm-4">
-                     <div class="blog-single">
-                         <img src="img/blog/blog_3.jpg" alt="" class="img-responsive">
-                         <div class="blog-inner">
-                             <a href="#"><h4>How to grow Your business...</h4></a>
-                             <ul class="list-inline blog-info">
-                                 <li><a href="#"><i class="fa fa-user"></i> Mike</a></li>
-                                 <li><a href="#"><i class="fa fa-calendar"></i>17 jan 2018</a></li>
-                                 <li><a href="#"><i class="fa fa-comments"></i> 5</a></li>
-                                 <li><a href="#"><i class="fa fa-heart"></i> 20</a></li>
-                                 <li><a href="#"><i class="fa fa-share"></i> 8 </a></li>
-                             </ul>
-                            
-                             <p>Perspiciatis maxime illo officiis modi, quasi molestiae molestias reiciendis repellendus, quaerat, expedita ea eveniet omnis illum accusantium. Adipisci eos vel, rem harum!</p>
-                             <a href="#" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </section>
-     <!-- End Blog Section -->  
-     
-     <!-- Start Faq Section -->  
-     <section id="faq" class="pt120">
-         <div class="container">
-           <div class="row">
-                 <div class="col-md-12">
-                     <div class="heading m-auto text-center ">
-                        <h5 class="subheading">Have any Question on Mind ?</h5>
-                        <h2 class="f-xbold">Frequently Asked Questions</h2>
-                        <hr class="seperator">
-                    </div>
-                </div>
-             </div>
-             
-             
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-                        <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingOne">
-                                <h4 class="panel-title">
-                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        How It Works ?
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                                <div class="panel-body">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl lorem, dictum id pellentesque at, vestibulum ut arcu. Curabitur erat libero, egestas eu tincidunt ac, rutrum ac justo. Vivamus condimentum laoreet lectus, blandit posuere tortor aliquam vitae. Curabitur molestie eros. </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingTwo">
-                                <h4 class="panel-title">
-                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How To create a Wallet?
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                                <div class="panel-body">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl lorem, dictum id pellentesque at, vestibulum ut arcu. Curabitur erat libero, egestas eu tincidunt ac, rutrum ac justo. Vivamus condimentum laoreet lectus, blandit posuere tortor aliquam vitae. Curabitur molestie eros. </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingThree">
-                                <h4 class="panel-title">
-                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What do you need to do a business?
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                                <div class="panel-body">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl lorem, dictum id pellentesque at, vestibulum ut arcu. Curabitur erat libero, egestas eu tincidunt ac, rutrum ac justo. Vivamus condimentum laoreet lectus, blandit posuere tortor aliquam vitae. Curabitur molestie eros. </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>  <!-- COl end --> 
-                
-                <div class="col-md-6">
-                   <img src="img/about/faq2.png" alt="" class="img-responsive">
-               </div>
-            </div>
-         </div>
-     </section>
-     <!-- End Faq Section --> 
+    <!-- End About Section -->
      
     <!-- Start Footer section    -->
     <footer id="footer-main">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-4">
-                    <div class="widget footer-widget">
-                        <h4>We accept</h4>
-                        <ul class="list-inline coin-widget">
-                            <li><a href="#"><i class="fa  fa-cc-mastercard"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cc-visa"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cc-paypal"></i></a></li>
-                            <li><a href="#"><i class="fa  fa-cc-discover"></i></a></li>
-                            <li><a href="#"><i class="fa  fa-cc-amex"></i></a></li>
-                            <li><a href="#"><i class="fa  fa-cc-stripe"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <div class="col-md-2 col-sm-6">
-                    <div class="widget news-widget">
-                        <h4>GLobal Price</h4>
-                        
-                        <ul>
-                           <li><a href="#">Average Bitcoin Price</a></li>
-                            <li><a href="#">API Documentation</a></li>
-                            <li><a href="#">API Statics</a></li>
-                            <li><a href="#">Currency Market</a></li>
-                            <li><a href="#">Unlimited API request</a></li>
-                            <li><a href="#">Bitcoin Price report 2016</a></li>
-                        </ul>
-                    </div>
-                </div> 
-                
-                <div class="col-md-2 col-sm-6">
-                    <div class="widget news-widget">
-                        <h4>Bitcoin Price API</h4>
-                        
-                        <ul>
-                            <li><a href="#">Currency Market</a></li>
-                            <li><a href="#">Unlimited API request</a></li>
-                            <li><a href="#">Bitcoin Price report 2016</a></li>
-                            <li><a href="#">Average Bitcoin Price</a></li>
-                            <li><a href="#">API Documentation</a></li>
-                            <li><a href="#">API Statics</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-2 col-sm-6">
-                    <div class="widget news-widget">
-                        <h4>Custom Index Price</h4>
-                        
-                        <ul>
-                            <li><a href="#">Currency Market</a></li>
-                            <li><a href="#">Unlimited API request</a></li>
-                            <li><a href="#">Bitcoin Price report 2016</a></li>
-                            <li><a href="#">Average Bitcoin Price</a></li>
-                            <li><a href="#">API Documentation</a></li>
-                            <li><a href="#">API Statics</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget contact-widget">
-                        <h4>Contact Us</h4>
-                        
-                        <ul class="footer-contact">
-                            <li><i class="fa fa-map-marker"></i>Linkin Park,Malbourne ,USA </li>
-                            <li><i class="fa fa-phone"></i> <span>+39-32523112</span></li>
-                            <li><i class="fa fa-envelope-o"></i> <span>bitbank@email.com</span></li>
-                        </ul>
-                        
-                        <ul class="list-inline">
-                            <li><a href="#"><i class="icon ion-social-facebook"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-googleplus"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-twitter"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-instagram"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-tumblr"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-rss"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-vimeo"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="row">
                 <div class="col-md-12 text-center">
-                    <p class="copy ">Bitcoin is unstabe source of statics income over virtual world. <br> All copyright Reserved to <span>BitBank</span> 2018</p>
+                    <p class="copy ">All copyright Reserved to <span>Apex Holdings</span> 2023</p>
                 </div>
             </div>
         </div>
