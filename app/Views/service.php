@@ -10,7 +10,7 @@
     <meta name="description" content="BitBank,multipurpose,business,agency,modern,bootstrap,bootstrap template,responsive,html,css,unique,professional,onepage,creative,template,design,web design,crypto,bitcoin,currency">
     <meta name="author" content="Dreambuzz">
 
-    <title>BitBank - Crypto currency Template</title>
+    <title>Service Fees | Apex Holdings</title>
 
     <link href="img/assets/favicon.ico" rel="icon" type="image/ico">
 
@@ -33,10 +33,8 @@
         <div id="status">&nbsp;</div>
     </div>
     <!-- End Preloader-->
-
-
-    <!-- Start Header Section -->
-    <nav class="navbar navbar-default transparent-white navbar-fixed-top">
+<!-- Start Header Section -->
+<nav class="navbar navbar-default transparent-white navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-main-collapse" aria-expanded="false">
@@ -52,563 +50,504 @@
             </div>
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                 <ul class="nav navbar-nav">
-                    <li>
-                        <a data-scroll href="index.html">Home</a>
-                    </li>
-                    <li>
-                        <a data-scroll href="service.html">Services</a>
-                    </li>
-                    <li>
-                        <a data-scroll href="about.html">About</a>
-                    </li>
-
-                    <li>
-                        <a data-scroll href="index.html#features">Features</a>
-                    </li>
-
-                    <li>
-                        <a data-scroll href="team.html">Team</a>
-                    </li>
-                    <li>
-                        <a data-scroll href="blog.html">Blog</a>
-                    </li>
-                    <li class="dropdown">
-			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Pages<i class="fa fa-angle-down"></i></a>
+                <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">WHY APEX HOLDINGS <i class="fa fa-angle-down"></i></a>
 				         <ul class="dropdown-menu" role="menu">
-                            <li><a href="about.html" class="page-scroll">About</a></li>
-                            <li><a href="service.html" class="page-scroll">Services</a></li>
-                            <li><a href="team.html" class="page-scroll">Team</a></li>
-                            <li><a href="blog.html" class="page-scroll">Blog</a></li>
-                            <li><a href="contact.html" class="page-scroll">Contact</a></li>
+                            <li><a href="overview1.php" class="page-scroll">OVERVIEW</a></li>
+                            <li><a href="about.php" class="page-scroll">ABOUT</a></li>
+                            <li><a href="award.php" class="page-scroll">AWARDS</a></li>
                         </ul>
                     </li>
-                     <li>
-                        <a data-scroll href="contact.html">Contact</a>
+                    <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">TRADING PRODUCTS <i class="fa fa-angle-down"></i></a>
+				         <ul class="dropdown-menu" role="menu">
+                            <li><a href="overview2.php" class="page-scroll">OVERVIEW</a></li>
+                            <li><a href="stocks.php" class="page-scroll">STOCKS</a></li>
+                            <li><a href="etfs.php" class="page-scroll">ETFs</a></li>
+                            <li><a href="ipo.php" class="page-scroll">IPO TRADING PLATFORM</a></li>
+                            <li><a href="options.php" class="page-scroll">OPTIONS</a></li>
+                            <li><a href="futures.php" class="page-scroll">FUTURES</a></li>
+                            <li><a href="futuresopt.php" class="page-scroll">FUTURES OPTIONS</a></li>
+                            <li><a href="crypto.php" class="page-scroll">CRYPTO</a></li>
+                            <li><a href="mutual.php" class="page-scroll">MUTUAL FUNDS</a></li>
+                            <li><a href="bonds.php" class="page-scroll">BONDS</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">PLATFORMS & TOOLS <i class="fa fa-angle-down"></i></a>
+				         <ul class="dropdown-menu" role="menu">
+                            <li><a href="introduction.php" class="page-scroll">INTRODUCTION</a></li>
+                            <li><a href="desktop.php" class="page-scroll">DESKTOP</a></li>
+                            <li><a href="web.php" class="page-scroll">WEB TRADING</a></li>
+                            <li><a href="mobile.php" class="page-scroll">MOBILE APPS</a></li>
+                            <li><a href="futuresp.php" class="page-scroll">FUTURES PLUS</a></li>
+                            <li><a href="simulated.php" class="page-scroll">SIMULATED TRADING</a></li>
+                            <li><a href="tscrypto.php" class="page-scroll">TSCRYPTO</a></li>
+                            <li><a href="oeq.php" class="page-scroll">ORDER EXECUTION QUALITY</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">ACCOUNTS <i class="fa fa-angle-down"></i></a>
+				         <ul class="dropdown-menu" role="menu">
+                            <li><a href="account.php" class="page-scroll">ACCOUNTS HOME</a></li> <br/>
+                            <div class="text-center">
+                               <b>TRADING ACCOUNTS</b>
+                            </div>
+                            <li><a href="" class="page-scroll"></a></li>
+                            <li><a href="individual.php" class="page-scroll">INDIVIDUAL & JOINT</a></li>
+                            <li><a href="retire.php" class="page-scroll">RETIREMENT</a></li>
+                            <li><a href="entity.php" class="page-scroll">ENTITY</a></li>
+                            <li><a href="fund.php" class="page-scroll">FUNDING INSTRUCTIONS</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">PRICING <i class="fa fa-angle-down"></i></a>
+				         <ul class="dropdown-menu" role="menu">
+                            <li><a href="commissions.php" class="page-scroll">COMMISSIONS</a></li>
+                            <li><a href="margin.php" class="page-scroll">MARGIN RATES</a></li>
+                            <li><a href="service.php" class="page-scroll">SERVICE FEES</a></li>
+                            <li><a href="market.php" class="page-scroll">MARKET DATA</a></li>
+                            <li><a href="fmr.php" class="page-scroll">FUTURE MARGIN RATES</a></li>
+                            <li><a href="omr.php" class="page-scroll">OPTIONS MARGIN REQUIREMENTS</a></li>
+                            <li><a href="eecr.php" class="page-scroll">EXCHANGE EXECUTION AND CLEARING FEES </a></li>
+                            <li><a href="promo.php" class="page-scroll">PROMOTIONS</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+			           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">LEARN <i class="fa fa-angle-down"></i></a>
+				         <ul class="dropdown-menu" role="menu">
+                            <li><a href="lh.php" class="page-scroll">LEARN HOME</a></li>
+                            <li><a href="ntt.php" class="page-scroll">NEW TO TRADE</a></li>
+                            <li><a href="ltt.php" class="page-scroll">LEARN TO TRADE</a></li>
+                            <li><a href="uah.php" class="page-scroll">USING APEX HOLDINGS</a></li>
+                            <li><a href="faqs.php" class="page-scroll">FAQs</a></li>
+                            <li><a href="mi.php" class="page-scroll">MARKET INSIGHTS </a></li>
+                        </ul>
                     </li>
                     <li class="quote">
-                        <a href="#">Quote Now</a>
+                        <a href="login.php">Log in</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
     <!-- End Header Section -->
+
     
     <!-- Start Hero Section -->
     <section id="service-page" class="page-wrap service">
         <div class="hero-container container">
             <div class="hero-content">
                 <div class="col-sm-12 m-auto text-center white">
-                    <h3 class="h1-md mb10 text-uppercase">Our Services</h3>
-                    <h4 class="subheading">Home/service</h4>
+                    <h3 class="h1-md mb10 text-uppercase">Service Fees</h3>
+                    <h4 class="subheading">Pricing/Service Fees</h4>
                 </div>
             </div>
         </div>
     </section>
     <!-- End Hero Section -->
-
-    <!-- Start About Section -->
-    <section id="services" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="heading m-auto text-center ">
-                        <h2 class="f-xbold">Services we provide</h2>
-                        <hr class="seperator">
-                        <p>With a belief that culture drives commerce, we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action. Our specialty of connecting brand, culture, and commerce has earned us a big reputation.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md 4 col-sm-4">
-                    <div class="service-box text-center">
-                        <div class="icon-box service-icon icon-lg">
-                            <i class="icon ion-android-sync"></i>
-                        </div>
-                        <div class="service-inner">
-                            <h4>Bitcoin <span>mining</span></h4>
-                            <p>Vllo eius voluptate quidem! Iste odit vel perferendis atque nisi iusto dolore eaque.</p>
-                            <a href="#" class="read-more">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md 4 col-sm-4">
-                    <div class="service-box text-center active">
-                        <div class="icon-box service-icon icon-lg">
-                            <i class="icon ion-android-share"></i>
-                        </div>
-                        <div class="service-inner">
-                            <h4>Bitcoin <span>Transaction</span></h4>
-                            <p>Vllo eius voluptate quidem! Iste odit vel perferendis atque nisi iusto dolore eaque.</p>
-                            <a href="#" class="read-more">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md 4 col-sm-4">
-                    <div class="service-box text-center">
-                        <div class="icon-box service-icon icon-lg">
-                            <i class="icon ion-android-bicycle"></i>
-                        </div>
-                        <div class="service-inner ">
-                            <h4>Bitcoin <span>Exchange</span></h4>
-                            <p>Vllo eius voluptate quidem! Iste odit vel perferendis atque nisi iusto dolore eaque.</p>
-                            <a href="#" class="read-more">Read More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Service Section -->
+</br>
+</br>
 
 
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="heading m-auto text-center ">
-                    <h2 class="f-xbold">Why Choose Bitcoin</h2>
-                    <hr class="seperator">
-                    <p>With a belief that culture drives commerce, we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action. Our specialty of connecting brand, culture, and commerce has earned us a big reputation.</p>
+
+
+
+
+
+<div class="container">
+    <table style=" width: 80%;  margin-left: auto; margin-right: auto;" class="table table-striped">
+  <thead>
+    <tr>
+      <th >All Accounts</th>
+      <th > </th>
+    </tr>
+  </thead>
+  <thead>
+    <tr>
+      <th >Service</th>
+      <th >Fee</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Return Mail Fee</td>
+      <td>$5 per item</td>
+     
+    </tr>
+    <tr>
+      <td>Overnight Check Delivery</td>
+      <td>$25
+      </td>
+    </tr>
+    <tr>
+    <td>Stale Dated 180 Days Void Check Fee for Un-cashed Check</td>
+      <td>$50.00
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</br>
+    <div class="container">
+    <table style=" width: 80%;  margin-left: auto; margin-right: auto;" class="table table-striped">
+  <thead>
+    <tr>
+      <th >Equities Accounts</th>
+      <th > </th>
+    </tr>
+  </thead>
+  <thead>
+    <tr>
+      <th >Service</th>
+      <th >Fee</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>T-Bills</td>
+      <td>$50</td>
+     
+    </tr>
+    <tr>
+      <td>Hardcopy Statement/Confirmation Postage & Handling Fee</td>
+      <td>$1 per page</td>
+    </tr>
+    <tr>
+    <td>Transfer and Ship (Physical Certificate)</td>
+      <td>$500 per certificate + overnight fee</td>
+    </tr>
+    <tr>
+    <td>Physical Certificate Deposit</td>
+      <td>$500 per certificate</td>
+    </tr>
+    <tr>
+    <td>DWAC Transactions</td>
+      <td>$150 per settled transaction</td>
+    </tr>
+    <tr>
+    <td>DRS Transfers (Book Entry Held at the Agent)</td>
+      <td>$25 per issue (incoming or outgoing)</td>
+    </tr>
+    <tr>
+    <td>DRS Transfer Reject	</td>
+      <td>$100</td>
+    </tr>
+    <tr>
+    <td>DTC Free Receive or Deliver</td>
+      <td>$25 per issue</td>
+    </tr>
+    <tr>
+    <td>Receiving Wires	</td>
+      <td>$0</td>
+    </tr>
+    <tr>
+    <td>Sending Wires – Equities Account</td>
+      <td>$25</td>
+    </tr>
+    <tr>
+    <td>Sending Wires – International Account</td>
+      <td>$35</td>
+    </tr>
+    <tr>
+    <td>DTC Free Receive or Deliver</td>
+      <td>$25 per issue</td>
+    </tr>
+    <tr>
+    <td>Outgoing Account Transfer</td>
+      <td>$125</td>
+    </tr>
+    <tr>
+    <td>International Overnight Delivery</td>
+      <td>$45</td>
+    </tr>
+    <tr>
+    <td>Apex Holdings IRA Account Annual Fee</td>
+      <td>$35</td>
+    </tr>
+    <tr>
+    <td>Apex Holdings IRA Account Termination</td>
+      <td>$50</td>
+    </tr>
+    <tr>
+    <td>Restricted Security Processing Fee</td>
+      <td>$500 per issue</td>
+    </tr>
+    <tr>
+    <td>Returned Check</td>
+      <td>$25</td>
+    </tr>
+    <tr>
+    <td>Returned ACH</td>
+      <td>$25</td>
+    </tr>
+    <tr>
+    <td>Legal Transfers</td>
+      <td>$50 per issue</td>
+    </tr>
+    <tr>
+    <td>Options Exercise/Assignment</td>
+      <td>$14.95</td>
+    </tr>
+    <tr>
+    <td>Early Assignment/Early Exercises</td>
+      <td>$1.50 per contract ($5.95 min)</td>
+    </tr>
+    <tr>
+    <td>Voluntary Tenders</td>
+      <td>$50</td>
+    </tr>
+    <tr>
+    <td>Mandatory Corporate Actions</td>
+      <td>$20</td>
+    </tr>
+    <tr>
+    <td>Maturities, Redemptions, Calls</td>
+      <td>$20</td>
+    </tr>
+    <tr>
+    <td>Margin/Risk Liquidation</td>
+      <td>$75</td>
+    </tr>
+    <tr>
+    <td>Option Liquidation</td>
+      <td>$75</td>
+    </tr>
+    <tr>
+    <td>Limited Partnership/Non-Standard Asset Re-registration Fee</td>
+      <td>$150 per issue</td>
+    </tr>
+    <tr>
+    <td>Limited Partnership/Non-Standard Asset Custody Fee</td>
+      <td>$100 per issue</td>
+    </tr>
+    <tr>
+    <td>Stop Payment Fee</td>
+      <td>$25</td>
+    </tr>
+    <tr>
+    <td>Short Debit Fees</td>
+      <td>Fees Vary</td>
+    </tr>
+    <tr>
+    <td>Broker Assisted Transaction</td>
+      <td>$0</td>
+    </tr>
+    <tr>
+    <td>Non-transferable and/or Worthless Security	$25 per CUSIP per year</td>
+      <td>$25 per CUSIP per year</td>
+    </tr>
+    <tr>
+    <td>Inactivity Fee</td>
+      <td>
+      $50 per year
+       </br>
+       <p>(FREE if account meets minimum activity)</p>
+      </td>
+    </tr>
+    <tr>
+    <td>Account Service Fee</td>
+      <td>
+      $149.95 per month* <p class='h6'>for per-share, per-trade (funded prior to 3/3/2017) or unbundled accounts</p>
+       <p class='h6'>(FREE for ECP GO and ECP SELECT Pricing Plans) (FREE if account meets minimum activity)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+   
+</br>
+    <div class="container">
+    <table style=" width: 80%;  margin-left: auto; margin-right: auto;" class="table table-striped">
+  <thead>
+    <tr>
+      <th >Futures Accounts</th>
+      <th > </th>
+    </tr>
+  </thead>
+  <thead>
+    <tr>
+      <th >Service</th>
+      <th >Fee</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>T-Bills</td>
+      <td>$10</td>
+     
+    </tr>
+    <tr>
+      <td>Hardcopy Statement/Confirmation Postage & Handling Fee</td>
+      <td>$1 per copy</td>
+    </tr>
+    <tr>
+    <td>External Transfer</td>
+      <td>$25</td>
+    </tr>
+    <tr>
+    <td>Receiving Wires</td>
+      <td>$0</td>
+    </tr>
+    <tr>
+    <td>Sending Wires from a Futures Account</td>
+      <td>$25</td>
+    </tr>
+    <tr>
+    <td>Sending Wires from an International Futures Account	</td>
+      <td>$35</td>
+    </tr>
+    <tr>
+    <td>Deliveries</td>
+      <td>$150 per contract + any applicable delivery costs and exchange fees</td>
+    </tr>
+    <tr>
+    <td>Extensions</td>
+      <td>$20</td>
+    </tr>
+    <tr>
+    <td>Futures IRA Fees</td>
+      <td>See fee schedule included with Futures IRA application</td>
+    </tr>
+    <tr>
+    <td>Futures Returned Check</td>
+      <td>$25</td>
+    </tr>
+    <tr>
+    <td>Delivery Liquidation</td>
+      <td>$75</td>
+    </tr>
+    <tr>
+    <td>Margin/Risk Liquidation</td>
+      <td>$75</td>
+    </tr>
+    <tr>
+    <td>Broker Assisted Transaction</td>
+      <td>$0</td>
+    </tr>
+    <tr>
+    <td>xercise/Assignment/Expiration</td>
+      <td>$1.50 per contract + any applicable exchange and regulatory fees.</td>
+    </tr>
+    <tr>
+    <td>Inactivity Fee</td>
+      <td>
+      $50 per year
+       </br>
+       <p>(FREE if account meets minimum activity)</p>
+      </td>
+    </tr>
+    <tr>
+    <td>Account Service Fee</td>
+      <td>
+      $149.95 per month* <p class='h6'>for per-share, per-trade (funded prior to 3/3/2017) or unbundled accounts</p>
+       <p class='h6'>(FREE for ECP GO and ECP SELECT Pricing Plans) (FREE if account meets minimum activity)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</br>
+<!-- Start  Feature Section -->
+<section id="features" class="bg-gray section-padding">
+        <div class="container feature-box">
+           
+                <div>
+                    <p class="h6">Apex Holdings Platform Software</p>
+                <div>
+                <p class='h6'>(Apex Holdings Platform features and functions are accessible and usable by 
+                    brokerage customers without any additional charges. However, it's important to note that
+                     certain commission plans may include fees, but these fees will only apply if minimum account
+                      activity thresholds are not met. In such cases, the charges are related to inactivity 
+                    and should not be confused with fees for accessing or using the software.)</P>
                 </div>
-            </div>
-            <div class="row mb50">
-                <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-1.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Safe and Secure</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-2.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Make Payment</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-3.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Secure Wallet</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                 <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-4.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Higher Availibilty</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-5.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Recurring Buying</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <img src="img/service/service-6.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="feature-inner">
-                            <h4>Instant Exchnage</h4>
-                            <p>we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </section>
     <!-- End  Feature Section -->
-    
-    
-    
-    <!-- Start Footer Section -->
-    <section id="parallax">
-       <div class="overlay-bg"></div>
-        <div class="container">
-            <div class="col-sm-8 text-center m-auto pt100 pb100 border-top">
-                <div class="white text-center parallax-info">
-                    <h4 class="mb10 lspacing">Give Us A Call</h4>
-                    <h1>+1 92-126-386</h1>
 
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eum dolor, vel blanditiis obcaecati inventore eos, distinctio molestiae ad veritatis dicta, sed corporis doloremque animi necessitatibus! Ratione totam nemo ea.</p>
-
-                    <ul class="social-icons fadeIn">
-                        <li><a href="#"><i class="fa fa-facebook white"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter white"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram white"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus white"></i></a></li>
-                        <li><a href="#"><i class="fa fa-behance white"></i></a></li>
-                        <li><a href="#"><i class="fa fa-dribbble white"></i></a></li>
-                    </ul>
-                    <h6>we don't <span class="highlight">enclose</span> your information with anyone.</h6>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Parallax Section --> 
-    
-    <!-- Start Price chart Section --> 
-    <section id="price" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                     <div class="heading m-auto text-center ">
-                        <h2 class="f-xbold">Updated Price rate</h2>
-                        <hr class="seperator">
-                        <p>With a belief that culture drives commerce, we leverage shared values and ideals to inform strategy and design, creating experiences that inspire life and inspire action. Our specialty of connecting brand, culture, and commerce has earned us a big reputation.</p>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="row">
-               <div class="col-md-6">
-                   <div class="price-chart-img">
-                       <img src="img/about/chart.jpg" alt="" class="img-responsive">
-                   </div>
-               </div>
-                <div class="col-md-6 col-sm-6">
-                    <div class="price-chart">
-                        
-                    <table class="table table-striped table-hover text-left">
-                        <thead>
-                        <tr>
-                            <th>Cryptocurrency</th>
-                            <th>Price</th>
-                            <th>24h % Change</th>
-                            <th>24h Volume (coin)</th>
-                            <th>Supply</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td><img src="img/coin/1.png" class="currency-icon" alt="">Bitcoin</td>
-                            <td>9,290.06 $</td>
-                            <td class="up">14.44%</td>
-                            <td>218,087 BTC</td>
-                            <td>923,629</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/2.png" class="currency-icon" alt="">Ethereum</td>
-                            <td>407.13 $</td>
-                            <td class="up">16.17%</td>
-                            <td>1,223,367 ETH</td>
-                            <td>663,133</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/3.png" class="currency-icon" alt="">Exchange Union</td>
-                            <td>7.47 $</td>
-                            <td class="down">-1.09%</td>
-                            <td>3,352 XUC</td>
-                            <td>427,132</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/4.png" class="currency-icon" alt="">Ripple</td>
-                            <td>0.22 $</td>
-                            <td class="up">20.80%</td>
-                            <td>211,418,299 XRP</td>
-                            <td>719,280</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/5.png" class="currency-icon" alt="">Veritaseum</td>
-                            <td>84.22 $</td>
-                            <td class="down">-14.56%</td>
-                            <td>36 VERI	</td>
-                            <td>218,887</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/6.png" class="currency-icon" alt="">DigitalCash</td>
-                            <td>709.31 $</td>
-                            <td class="down">-1.18%</td>
-                            <td>125,361 DASH</td>
-                            <td>427,132</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/7.png" class="currency-icon" alt="">Monero</td>
-                            <td>78.97 $</td>
-                            <td class="up">20.55%	</td>
-                            <td>2,281,288 LTC</td>
-                            <td>719,280</td>
-                        </tr>
-                        <tr>
-                            <td><img src="img/coin/8.png" class="currency-icon" alt=""> Litecoin</td>
-                            <td>156.32 $</td>
-                            <td class="up">1.18%</td>
-                            <td>255,226 XMR</td>
-                            <td>218,887</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Price Chart Section -->
-     
-     <!-- Start Counter Section --> 
-     <section id="counter-wrap">
-         <div class="container">
-             <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-project-complete">
-                        <i class="icon ion-thumbsup"></i>
-                        <h3>project complete</h3>
-                        <h2 class="counter-num">1200</h2>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-project-complete">
-                        <i class="icon ion-ios-people"></i>
-                        <h3>Happy Clients</h3>
-                        <h2 class="counter-num">1000</h2>
-
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-project-complete">
-                        <i class="icon ion-android-globe"></i>
-                        <h3>Line of Work</h3>
-                        <h2 class="counter-num">56090</h2>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-project-complete">
-                        <i class="fa fa-angellist"></i>
-                        <h3>Awards won</h3>
-                        <h2 class="counter-num">31</h2>
-                    </div>
-                </div>
-             </div>
-         </div>
-     </section>
-     <!-- End Counter Section --> 
-    
-     <!-- Start Testimonial Section -->
-    <section id="parallax-contact" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 col-sm-12 ">
-                    <div class="clients text-center">
-                        <h3>Trusted Worldwide</h3>
-                        <p>Get latest testimonial update</p>
-                    </div>
-                </div>
-            </div><!--   1st row end-->
+    <div class="container">
+    <table style=" width: 80%;  margin-left: auto; margin-right: auto;" class="table table-striped">
+  <thead>
+    <tr>
+      <th >Apex Holdings Platform Features</th>
+      <th >With ECP GO, ECP SELECT, $5 Per-Trade Equities or $1.50 Single-Tier Futures Brokerage Account</th>
+    <th>Brokerage Accounts on other Equities or Futures Commission Plans</th>
+    <th>Without Brokerage Account**</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><h5> Apex Holdings platform (base version)</h5></td>
+      <td>FREE</td>
+      <td>FREE
+      </br>
+      <p>(if account meets minimum activity)</p>
+      $149.95 / month* (if not)
+      </td>
+      <td>
+      $99.99 / month
+      </br>
+      $199.99 for professionals
+      </td>
+    </tr>
+    <tr>
+      <td><h5>RadarScreen®– Real-time market monitoring tool</h5></td>
+      <td>FREE</td>
+      <td>FREE</td>
+      <td>FREE</td>
+    </tr>
+    <tr>
+    <td><h5>Portfolio Maestro® – Portfolio-level strategy back-testing tool</h5></td>
+      <td>FREE</td>
+      <td>FREE</td>
+      <td>$59.95 / month</td>
+    </tr>
+    <tr>
+    <td><h5>OptionStation® Pro – Options analysis platform</h5></td>
+      <td>FREE</td>
+      <td>FREE</td>
+      <td>FREE</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td></td>
+      <td></td>
+      <td>  <a href="" class="btn btn-warning btn-sm">Subscribe Now</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- Start  Feature Section -->
+<section id="features" class="bg-gray section-padding">
+        <div class="container feature-box">
            
-            <div class="row">
-                <div class="col-md-8 m-auto clients-wrap">
-                    <div class="row">
-                        <div class="col-md-3 col-sm-6">
-                            <div class="client-logo">
-                                <img src="img/partner/partner1.png" alt="" class="img-responsive center-block">
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="client-logo">
-                               <img src="img/partner/partner2.png" alt="" class="img-responsive center-block">
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-26">
-                            <div class="client-logo">
-                                <img src="img/partner/partner3.png" alt="" class="img-responsive center-block">
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="client-logo">
-                                <img src="img/partner/partner2.png" alt="" class="img-responsive center-block">
-                            </div>
-                        </div>
-                    </div>
+                <div>
+                    <p class="h6">*As of December 1, 2019.</p>
+                <div>
+                <p class='h6'>**The Apex Holdings analysis software platform, which can 
+                    be used solely for charting and analysis, including back-testing of 
+                    investment strategies, is offered by our affiliate, Apex Holdings Technologies, 
+                    Inc., a software technology company.</P>
                 </div>
-            </div><!--   2nd row end-->
             
-            <div class="row">
-               <div class="col-md-9 m-auto">
-                <div class="carousel slide" id="testimonial-carousel" data-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="item active">
-                            <div class="row">
-                                <div class="col-md-6 col-sm-6">
-                                    <div class="testimonial-wrap">
-                                        <p>Beatae fugit fugiat aperiam odio aliquid obcaecati ad, cupiditate sequi repudiandae necessitatibus minus debitis officia maxime id sint deserunt, quia quis mollitia.</p>
-                                        
-                                        <img src="img/about/tm2.jpg" alt="" class="img-responsive">
-                                        <div class="client-info">
-                                            <h4>Nikol Tin</h4>
-                                            <p>Senior Consutant ,Softcorner INc</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6">
-                                    <div class="testimonial-wrap">
-                                        <p>Beatae fugit fugiat aperiam odio aliquid obcaecati ad, cupiditate sequi repudiandae necessitatibus minus debitis officia maxime id sint deserunt, quia quis mollitia.</p>
-                                        
-                                        <img src="img/about/tm3.jpg" alt="" class="img-responsive">
-                                        <div class="client-info">
-                                            <h4>Martin Guptil</h4>
-                                            <p>Consutant ,Softcorner INc</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-6 col-sm-6">
-                                    <div class="testimonial-wrap">
-                                        <p>Beatae fugit fugiat aperiam odio aliquid obcaecati ad, cupiditate sequi repudiandae necessitatibus minus debitis officia maxime id sint deserunt, quia quis mollitia.</p>
-                                        
-                                        <img src="img/about/tm4.jpg" alt="" class="img-responsive">
-                                        <div class="client-info">
-                                            <h4>Nikol Tin</h4>
-                                            <p>Senior Consutant ,Softcorner INc</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6">
-                                    <div class="testimonial-wrap">
-                                        <p>Beatae fugit fugiat aperiam odio aliquid obcaecati ad, cupiditate sequi repudiandae necessitatibus minus debitis officia maxime id sint deserunt, quia quis mollitia.</p>
-                                        
-                                        <img src="img/about/tm.jpg" alt="" class="img-responsive">
-                                        <div class="client-info">
-                                            <h4>Martin Guptil</h4>
-                                            <p>Consutant ,Softcorner INc</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </div>
         </div>
     </section>
-    <!-- End Testimonial Section -->
-     
-    <!-- Start Footer section    -->
-    <footer id="footer-main">
+    <!-- End  Feature Section -->
+   <!-- Start Footer section    -->
+   <footer id="footer-main">
         <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-4">
-                    <div class="widget footer-widget">
-                        <h4>We accept</h4>
-                        <ul class="list-inline coin-widget">
-                            <li><a href="#"><i class="fa  fa-cc-mastercard"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cc-visa"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cc-paypal"></i></a></li>
-                            <li><a href="#"><i class="fa  fa-cc-discover"></i></a></li>
-                            <li><a href="#"><i class="fa  fa-cc-amex"></i></a></li>
-                            <li><a href="#"><i class="fa  fa-cc-stripe"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <div class="col-md-2 col-sm-6">
-                    <div class="widget news-widget">
-                        <h4>GLobal Price</h4>
-                        
-                        <ul>
-                           <li><a href="#">Average Bitcoin Price</a></li>
-                            <li><a href="#">API Documentation</a></li>
-                            <li><a href="#">API Statics</a></li>
-                            <li><a href="#">Currency Market</a></li>
-                            <li><a href="#">Unlimited API request</a></li>
-                            <li><a href="#">Bitcoin Price report 2016</a></li>
-                        </ul>
-                    </div>
-                </div> 
-                
-                <div class="col-md-2 col-sm-6">
-                    <div class="widget news-widget">
-                        <h4>Bitcoin Price API</h4>
-                        
-                        <ul>
-                            <li><a href="#">Currency Market</a></li>
-                            <li><a href="#">Unlimited API request</a></li>
-                            <li><a href="#">Bitcoin Price report 2016</a></li>
-                            <li><a href="#">Average Bitcoin Price</a></li>
-                            <li><a href="#">API Documentation</a></li>
-                            <li><a href="#">API Statics</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-2 col-sm-6">
-                    <div class="widget news-widget">
-                        <h4>Custom Index Price</h4>
-                        
-                        <ul>
-                            <li><a href="#">Currency Market</a></li>
-                            <li><a href="#">Unlimited API request</a></li>
-                            <li><a href="#">Bitcoin Price report 2016</a></li>
-                            <li><a href="#">Average Bitcoin Price</a></li>
-                            <li><a href="#">API Documentation</a></li>
-                            <li><a href="#">API Statics</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget contact-widget">
-                        <h4>Contact Us</h4>
-                        
-                        <ul class="footer-contact">
-                            <li><i class="fa fa-map-marker"></i>Linkin Park,Malbourne ,USA </li>
-                            <li><i class="fa fa-phone"></i> <span>+39-32523112</span></li>
-                            <li><i class="fa fa-envelope-o"></i> <span>bitbank@email.com</span></li>
-                        </ul>
-                        
-                        <ul class="list-inline">
-                            <li><a href="#"><i class="icon ion-social-facebook"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-googleplus"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-twitter"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-instagram"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-tumblr"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-rss"></i></a></li>
-                            <li><a href="#"><i class="icon ion-social-vimeo"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            
+
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <p class="copy ">Bitcoin is unstabe source of statics income over virtual world. <br> All copyright Reserved to <span>BitBank</span> 2018</p>
+                    <p class="copy "><br> All copyright Reserved to <span>Apex Holdings</span> 2023</p>
                 </div>
             </div>
         </div>
     </footer>
     <!-- End Footer section    -->
- 
     <!-- Start Back To Top -->
     <a data-scroll id="back-to-top" href="#service-page"><i class="icon ion-chevron-up"></i></a>
     <!-- End Back To Top -->
