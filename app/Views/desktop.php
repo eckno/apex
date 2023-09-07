@@ -10,7 +10,7 @@
     <meta name="description" content="BitBank,multipurpose,business,agency,modern,bootstrap,bootstrap template,responsive,html,css,unique,professional,onepage,creative,template,design,web design,crypto,bitcoin,currency">
     <meta name="author" content="Dreambuzz">
 
-    <title>Overview | Apex Holdings</title>
+    <title>Desktop Platform | Apex Holdings</title>
 
     <link href="img/assets/favicon.ico" rel="icon" type="image/ico">
 
@@ -125,7 +125,6 @@
                             <li><a href="ltt.php" class="page-scroll">LEARN TO TRADE</a></li>
                             <li><a href="uah.php" class="page-scroll">USING APEX HOLDINGS</a></li>
                             <li><a href="faqs.php" class="page-scroll">FAQs</a></li>
-                            <li><a href="mi.php" class="page-scroll">MARKET INSIGHTS </a></li>
                         </ul>
                     </li>
                     <li class="quote">
@@ -137,157 +136,186 @@
     </nav>
     <!-- End Header Section -->
 
-
-    <!-- Start Hero Section -->
-    <section id="about-page" class="page-wrap about">
+ <!-- Start Hero Section -->
+ <section id="about-page" class="page-wrap about">
         <div class="hero-container container">
             <div class="hero-content">
                 <div class="col-sm-12 m-auto text-center white">
-                    <h3 class="h1-md mb10 text-uppercase">Overview</h3>
-                    <h4 class="subheading">Why Apex Holdings/Overview</h4>
+                    <h3 class="h1-md mb10 text-uppercase">Desktop Platform</h3>
+                    <h4 class="subheading">Platform and Tools/Desktop Platform</h4>
                 </div>
             </div>
         </div>
     </section>
     <!-- End Hero Section -->
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
+
+
+<!-- Start  Feature Section -->
+<section id="features" class="bg-gray section-padding">
         <div class="container">
             <div class="row">
-                <div class="heading  text-left ">
-                    <h2 class="f-xbold">Innovation is written in our code.</h2>
-                    <p>
-                      Apex Holdings is dedicated to empowering traders,
-                     enabling them to seize their financial edge with confidence.
-                    </p>
-                    <p>Whether you're a novice trader or an experienced professional, our comprehensive range of
-                         powerful trading technology, online brokerage services, and trading education is designed to
-                          empower you. We are fully 
-                        committed to helping you unleash your trading and investor potential to the fullest extent.</p>
+                <div class="heading m-auto text-center ">
+                    <h2 class="f-xbold">Desktop Platform</h2>
+                    <hr class="seperator">
+                    <p>All the professional-grade firepower you need to take on the markets.</p>
+                </div>
+            </div>
+            <div class="row mb50">
+                <div class="col-md-3 col-sm-3">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Enter the markets with confidence</h4>
+                            <p>In the Apex Holdings Platform, you can test your ideas before ever placing your first trade.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>We’ve got the TradingApps® to help you succeed</h4>
+                            <p>Access more than a dozen built-in trading apps and browse Apex Holdings’s
+                                 TradingApp Store for hundreds of additional features. Many of them free of charge!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Chart your own path</h4>
+                            <p>With EasyLanguage®, Apex Holdings’s proprietary computer language designed for traders,
+                                 you can write your very own program to back-test and automate your boldest trading ideas.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Find opportunities – fast</h4>
+                            <p>Apex Holdings’s powerful RadarScreen® scans for trading opportunities in real-time. 
+                                We combined the power of computer-based trading algorithms with the efficiency of a quote window.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- End  Feature Section -->
-    
-     <!-- Start parallax Section --->
- <section id="parallax">
+
+ <!-- Start  Feature Section -->
+ <section id="features" class="bg-gray ">
+        <div class="container">
+            <div class="row">
+                <div class=" ">
+                    <h4 class="f-xbold">Key features of Apex Holdings’s desktop platform</h4>
+                   </br>
+                    <p>Our award-winning technology is powerful and reliable</p>
+                </div>
+            </div>
+            </br>
+                     </br>
+            <div class="row mb50">
+                
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>RadarScreen®</h4>
+                           <p>With RadarScreen, trading opportunities have nowhere to hide. RadarScreen continuously
+                             monitors and ranks up to 1,000 symbols in real-time, based on more than 180 fully customizable
+                              technical and fundamental indicators, 
+                            as well as virtually unlimited amounts of your own custom criteria, through EasyLanguage.</p>
+                        </div>
+                    </div>
+               
+                     </br>
+                     </br>
+                    
+                     <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>EasyLanguage®</h4>
+                            <p>Apex Holdings’s proprietary easy-to-learn programming language designed
+                                 for traders allows you to design customized
+                                 indicators and trading strategies using English-like statements.</p>
+                                 </br>
+                                 </br>
+                                 <h4>Strategy Back-Testing</h4>
+                            <p>Through Apex Holdings, you can back-test, optimize, and fully automate
+                                 your trade ideas across any stock or future with decades
+                                 of historical market data – before you ever make your first trade.</p>
+
+                                </br>
+                                </br>
+                                 <h4>Matrix</h4>
+                            <p>The Matrix is the “Swiss Army Knife” of trading tools, combining the benefits
+                                 of a detailed market depth window, a highly advanced order-entry tool, 
+                                 and a precise order-tracking system – all in one, single view. 
+                                 The Matrix is the fastest way to enter or change an order,
+                                 with single click and/or drag and drop simplicity.</p>
+
+                                 </br>
+                                </br>
+                                 <h4>TradingApps & TradingApp® Store</h4>
+                            <p>The Apex Holdings desktop platform includes more than a dozen built-in trading
+                                 apps, made to help you trade more efficiently and confidently, with many of 
+                                 them being free! Plus, gain access to the The TradingApp Store, an online 
+                                 marketplace of ready-to-use add-on 
+                                products built to run on the Apex Holdings Platform by independent developers.</p>
+                                </br>
+                                </br>
+                                 <h4>OptionStation® Pro</h4>
+                            <p>Our cutting-edge, powerful, options analysis application helps take
+                                 the guesswork out of trading options. Visualize the options markets
+                                  in a new way with visual options chains that highlight your strategy’s
+                                 probability to break even across a series of expirations.</p>
+                                </br>
+                                </br>
+                                 <h4>Simulated Trading Mode</h4>
+                            <p>Simulated trading gives you the ability to design and test your trading plan, 
+                                hone your trading skills, and execute simulated 
+                                demo trades with the same high-quality market data – without risking a penny.</p>
+
+                            </div>
+                    </div>
+          
+                    </br>
+                    </br>
+
+            </div>
+        </div>
+    </section>
+    <!-- End  Feature Section -->
+  
+<!-- Start parallax Section --->
+<section id="parallax">
        <div class="overlay-bg"></div>
         <div class="container">
-            <div class="col-sm-8 text-left  pt100 pb100 border-top">
-                <div class="white text-left parallax-info">
-                    <h1 class="mb10 lspacing">Our Manifesto</h1>
-                    <p>
-                      Our manifesto serves as a vital proclamation, embodying our core values and beliefs.
-                      <br/> It stands as an open invitation, encouraging
-                       individuals to embrace our purpose and become part of our transformative movement.
-                    </p>
+            <div class="col-sm-8 text-center m-auto pt100 pb100 border-top">
+                <div class="white text-center parallax-info">
+                    <h1 class="mb10 lspacing">What’s new with Apex Holdings 10 Desktop?</h1>
+
+                    
+                        <div class='container'>
+                        <div class='row'>
+                        <div class='col-md-4'>
+                            <h4>All-new user interface</h4>
+                       <p>Our workflow-optimized interface makes Apex Holdings easier to use than
+                         ever before. It’s beautiful yet practical,
+                         using high contrast to push the most relevant information out in front.</p>
+                        </div>
+                        <div class='col-md-4'>
+                        <h4>Streamlined updates</h4>
+                        <p>Apex Holdings 10’s all-new update process allows your Apex Holdings software
+                             to update seamlessly, so you can access the latest innovations without skipping a beat.</p>
+                        </div>
+                        </div>
+                       </div>
                 </div>
             </div>
         </div>
     </section>
     <!--End Parallax Section -->
     
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
-        <div class="container">
-            <div class="row mb50">
-                <div class="">
-                    <div class="feature-box">
-                        
-                        <div class="feature-inner">
-                            <h4>Recognized for excellence</h4>
-                            <p>Apex Holdings has maintained an unwavering dedication to delivering the finest trading 
-                                experience year after year. Our platforms and brokerage services have consistently earned 
-                                accolades and recognition from reputable industry
-                                 reviewers such as Barron's, StockBrokers.com, Investopedia, and Investor's Business Daily.</p>
-                            <a href="awards.php" class="read-more">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                        
-                        <div class="feature-inner">
-                            <h4>The tools you need to put plans into action</h4>
-                            <p>Experience seamless trading of <a href='stocks.php'> stocks</a>,<a href='etfs.php'> ETFs</a>,
-                            <a href='futures.php'> futures</a>, <a href='options.php'> options</a>, 
-                            and <a href='stocks.php'> crypto</a> with dependable
-                                 execution on robust platforms. At Apex Holdings, we provide broad market access, competitive
-                                  pricing models, and a comprehensive suite of tools for traders and investors. 
-                                  Empower yourself with extensive data to test and optimize your strategies, and join a
-                                 vibrant community to share knowledge and acquire new skills across multiple markets.</p>
-                            <a href="introduction.php" class="read-more">Explore our tools</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                        <div class="feature-inner">
-                            <h4>Market research and insights at your fingertips</h4>
-                            <p>At the core of everything we do lies our unwavering belief in the power of analytics
-                                 over intuition. Our platforms and tools are meticulously infused with extensive historical
-                                  market data spanning several years. This ensures that you have the utmost confidence to test,
-                                 optimize, and execute your own trading strategies with precision and certainty.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                 <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>We’re committed to your trading success</h4>
-                            <p>YouCanTrade™, a subsidiary of Apex Holdings Group, provides a diverse range of 
-                                multimedia educational and training resources. Our goal is to inspire new trading 
-                                ideas and support you in enhancing your trading skills consistently. 
-                                Explore our comprehensive offerings to further your trading knowledge and expertise.</p>
-                            <a href="lh.php" class="read-more">Learn More</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>Get the support you need when you need it</h4>
-                            <p>Receive prompt and efficient assistance from our dedicated support team whenever you need 
-                                it the most. Contacting Apex Holdings's highly trained staff is quick and convenient through 
-                                various channels including phone, email, live chat, chatbot, or our user-friendly online Client Center. 
-                                We are committed to ensuring your needs are met with the utmost care and responsiveness.</p>
-                            <a href="support.php" class="read-more">Get in touch</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>In a nutshell</h4>
-                            <p>Our commitment is to provide you with access to a comprehensive range
-                                 of tools, platforms, and educational resources that will empower you
-                                  to become a more skilled trader and investor. Take the first step towards unlocking
-                                 your trading potential by opening an account with us today.</p>
-                            <a href="signup.php" class="read-more">Open account</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End  Feature Section -->
-    
-    <!-- Start Footer section    -->
+           
+     
+       <!-- Start Footer section    -->
     <footer id="footer-main">
         <div class="container">
 

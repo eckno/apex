@@ -10,7 +10,7 @@
     <meta name="description" content="BitBank,multipurpose,business,agency,modern,bootstrap,bootstrap template,responsive,html,css,unique,professional,onepage,creative,template,design,web design,crypto,bitcoin,currency">
     <meta name="author" content="Dreambuzz">
 
-    <title>Overview | Apex Holdings</title>
+    <title>Individual & Joint | Apex Holdings</title>
 
     <link href="img/assets/favicon.ico" rel="icon" type="image/ico">
 
@@ -125,7 +125,6 @@
                             <li><a href="ltt.php" class="page-scroll">LEARN TO TRADE</a></li>
                             <li><a href="uah.php" class="page-scroll">USING APEX HOLDINGS</a></li>
                             <li><a href="faqs.php" class="page-scroll">FAQs</a></li>
-                            <li><a href="mi.php" class="page-scroll">MARKET INSIGHTS </a></li>
                         </ul>
                     </li>
                     <li class="quote">
@@ -137,157 +136,187 @@
     </nav>
     <!-- End Header Section -->
 
-
-    <!-- Start Hero Section -->
-    <section id="about-page" class="page-wrap about">
+ <!-- Start Hero Section -->
+ <section id="about-page" class="page-wrap about">
         <div class="hero-container container">
             <div class="hero-content">
                 <div class="col-sm-12 m-auto text-center white">
-                    <h3 class="h1-md mb10 text-uppercase">Overview</h3>
-                    <h4 class="subheading">Why Apex Holdings/Overview</h4>
+                    <h3 class="h1-md mb10 text-uppercase">Individual & Joint</h3>
+                    <h4 class="subheading">Accounts/Individual & Joint</h4>
                 </div>
             </div>
         </div>
     </section>
     <!-- End Hero Section -->
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="heading  text-left ">
-                    <h2 class="f-xbold">Innovation is written in our code.</h2>
-                    <p>
-                      Apex Holdings is dedicated to empowering traders,
-                     enabling them to seize their financial edge with confidence.
-                    </p>
-                    <p>Whether you're a novice trader or an experienced professional, our comprehensive range of
-                         powerful trading technology, online brokerage services, and trading education is designed to
-                          empower you. We are fully 
-                        committed to helping you unleash your trading and investor potential to the fullest extent.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End  Feature Section -->
-    
-     <!-- Start parallax Section --->
- <section id="parallax">
-       <div class="overlay-bg"></div>
-        <div class="container">
-            <div class="col-sm-8 text-left  pt100 pb100 border-top">
-                <div class="white text-left parallax-info">
-                    <h1 class="mb10 lspacing">Our Manifesto</h1>
-                    <p>
-                      Our manifesto serves as a vital proclamation, embodying our core values and beliefs.
-                      <br/> It stands as an open invitation, encouraging
-                       individuals to embrace our purpose and become part of our transformative movement.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Parallax Section -->
-    
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
-        <div class="container">
-            <div class="row mb50">
-                <div class="">
-                    <div class="feature-box">
-                        
-                        <div class="feature-inner">
-                            <h4>Recognized for excellence</h4>
-                            <p>Apex Holdings has maintained an unwavering dedication to delivering the finest trading 
-                                experience year after year. Our platforms and brokerage services have consistently earned 
-                                accolades and recognition from reputable industry
-                                 reviewers such as Barron's, StockBrokers.com, Investopedia, and Investor's Business Daily.</p>
-                            <a href="awards.php" class="read-more">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                        
-                        <div class="feature-inner">
-                            <h4>The tools you need to put plans into action</h4>
-                            <p>Experience seamless trading of <a href='stocks.php'> stocks</a>,<a href='etfs.php'> ETFs</a>,
-                            <a href='futures.php'> futures</a>, <a href='options.php'> options</a>, 
-                            and <a href='stocks.php'> crypto</a> with dependable
-                                 execution on robust platforms. At Apex Holdings, we provide broad market access, competitive
-                                  pricing models, and a comprehensive suite of tools for traders and investors. 
-                                  Empower yourself with extensive data to test and optimize your strategies, and join a
-                                 vibrant community to share knowledge and acquire new skills across multiple markets.</p>
-                            <a href="introduction.php" class="read-more">Explore our tools</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                        <div class="feature-inner">
-                            <h4>Market research and insights at your fingertips</h4>
-                            <p>At the core of everything we do lies our unwavering belief in the power of analytics
-                                 over intuition. Our platforms and tools are meticulously infused with extensive historical
-                                  market data spanning several years. This ensures that you have the utmost confidence to test,
-                                 optimize, and execute your own trading strategies with precision and certainty.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
+
+ <!-- Start  Feature Section -->
+ <section id="features" class="bg-gray section-padding">
+        <div class="container">
             <div class="row">
-                 <div class="">
+                <div class="heading m-auto text-center ">
+                    <h4 class="f-xbold">Our individual and joint accounts are our most popular.</h4>
+                    <hr class="seperator">
+                </div>
+            </div>
+            <div class="row mb50">
+                
                     <div class="feature-box">
-                       
                         <div class="feature-inner">
-                            <h4>We’re committed to your trading success</h4>
-                            <p>YouCanTrade™, a subsidiary of Apex Holdings Group, provides a diverse range of 
-                                multimedia educational and training resources. Our goal is to inspire new trading 
-                                ideas and support you in enhancing your trading skills consistently. 
-                                Explore our comprehensive offerings to further your trading knowledge and expertise.</p>
-                            <a href="lh.php" class="read-more">Learn More</a>
+                            <h4>Individual</h4>
+                            <p>A personal brokerage account for individual traders with only one account owner.</p>
+                            <a href="signup.php" class="read-more">Open Account</a>
+                        </div>
+                    </div>
+               
+                     </br>
+                     </br>
+                     </br>
+                     </br>
+                    
+                     <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Joint with Right of Survivorship</h4>
+                            <p>This account has two account owners. If one account owner passes away, 
+                                the remaining account owner succeeds to the rights of the entire account.</p>
+                            <a href="signup.php" class="read-more">Open Account</a>
+                        </div>
+                    </div>
+          
+                    </br>
+                    </br>
+                    </br>
+                     </br> 
+
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Joint Tenants in Common</h4>
+                            <p>This account has two or up to three account owners with each person owning a 
+                                specified percentage of the account. If one account owner passes away, 
+                                that person’s portion of the account is transferred to his or her  beneficiaries.</p>
+                            <a href="signup.php" class="read-more">Open Account</a>
+                        </div>
+                    </div>
+                   
+                    </br>
+                    </br>
+                    </br>
+                     </br>
+                     
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Custodial</h4>
+                            <p>Custodial account types are established for a minor and managed by a guardian on the minor’s behalf.</p>
+                            <a href="signup.php" class="read-more">Open Account</a>
+                        </div>
+                    </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- End  Feature Section -->
+  
+           <!-- Start  Feature Section -->
+ <section id="features" class="bg-gray ">
+        <div class="container">
+            <div class="row">
+                 <div class="col-md-12 col-sm-12">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <p class='h6'>
+                                Custodial accounts are not available for crypto accounts with Apex Holdings Crypto, Inc.
+                                 </p>
+                                 </br>
+                                <p class='h6'>Apex Holdings Securities, Inc., Apex Holdings Crypto, Inc., and
+                                     Apex Holdings Technologies, Inc. are each wholly owned subsidiaries of Apex
+                                      Holdings Group, Inc., all operating, and providing products and services, 
+                                      under theApex Holdings brand and trademark. You Can Trade, Inc. is also a 
+                                      wholly owned subsidiary of Apex Holdings Group, Inc., operating under its 
+                                      own brand and trademarks. When applying for, or purchasing, accounts, 
+                                      subscriptions, products and services, it is important that you know which
+                                       company you will be dealing with.
+                                     Please <a href=''>click here'</a> for further important information explaining what this means.
+                                </p>
                         </div>
                     </div>
                 </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>Get the support you need when you need it</h4>
-                            <p>Receive prompt and efficient assistance from our dedicated support team whenever you need 
-                                it the most. Contacting Apex Holdings's highly trained staff is quick and convenient through 
-                                various channels including phone, email, live chat, chatbot, or our user-friendly online Client Center. 
-                                We are committed to ensuring your needs are met with the utmost care and responsiveness.</p>
-                            <a href="support.php" class="read-more">Get in touch</a>
+                
+            </div>
+        </div>
+        </br>
+            </br>
+    </section>
+    <!-- End  Feature Section -->
+            
+     <!-- Start HOw It Works Section -->
+     <section id="howorks">
+        <div class="bg-feature work-bg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="heading m-auto text-center ">
+                            <h2 class="f-xbold">How it Works</h2>
+                            <hr class="seperator">
+                            <p>We made it simple and easy to get started with Apex Holdings. Follow the steps below to open your account today.</p>
                         </div>
                     </div>
                 </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>In a nutshell</h4>
-                            <p>Our commitment is to provide you with access to a comprehensive range
-                                 of tools, platforms, and educational resources that will empower you
-                                  to become a more skilled trader and investor. Take the first step towards unlocking
-                                 your trading potential by opening an account with us today.</p>
-                            <a href="signup.php" class="read-more">Open account</a>
+            </div>
+        </div>
+
+        <div class="work-wrap ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9 col-sm-9 m-auto">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-3">
+                                <div class="work-inner-box">
+                                    <div class="icon-box work-icon icon-lg">
+                                        <img src="img/icon/icon1.png" alt="" class="img-responsive">
+                                    </div>
+                                    <h4>Review account types</h4>
+                                    <p></p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-3 col-sm-3">
+                                <div class="work-inner-box">
+                                    <div class="icon-box work-icon icon-lg">
+                                        <img src="img/icon/icon2.png" alt="" class="img-responsive">
+                                    </div>
+                                    <h4>Open an account</h4>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-3">
+                                <div class="work-inner-box">
+                                    <div class="icon-box work-icon icon-lg">
+                                        <img src="img/icon/icon3.png" alt="" class="img-responsive">
+                                    </div>
+                                    <h4>Fund your account</h4>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-3">
+                                <div class="work-inner-box">
+                                    <div class="icon-box work-icon icon-lg">
+                                        <img src="img/icon/icon1.png" alt="" class="img-responsive">
+                                    </div>
+                                    <h4>Start trading</h4>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <!-- <a href="about.php" class="btn btn-black">Read More</a> -->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- End  Feature Section -->
+    <!-- End HOw It Works Section -->
+
     
-    <!-- Start Footer section    -->
+       <!-- Start Footer section    -->
     <footer id="footer-main">
         <div class="container">
 

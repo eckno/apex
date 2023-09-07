@@ -10,7 +10,7 @@
     <meta name="description" content="BitBank,multipurpose,business,agency,modern,bootstrap,bootstrap template,responsive,html,css,unique,professional,onepage,creative,template,design,web design,crypto,bitcoin,currency">
     <meta name="author" content="Dreambuzz">
 
-    <title>Overview | Apex Holdings</title>
+    <title>Futures Plus | Apex Holdings</title>
 
     <link href="img/assets/favicon.ico" rel="icon" type="image/ico">
 
@@ -125,7 +125,6 @@
                             <li><a href="ltt.php" class="page-scroll">LEARN TO TRADE</a></li>
                             <li><a href="uah.php" class="page-scroll">USING APEX HOLDINGS</a></li>
                             <li><a href="faqs.php" class="page-scroll">FAQs</a></li>
-                            <li><a href="mi.php" class="page-scroll">MARKET INSIGHTS </a></li>
                         </ul>
                     </li>
                     <li class="quote">
@@ -137,157 +136,238 @@
     </nav>
     <!-- End Header Section -->
 
-
-    <!-- Start Hero Section -->
-    <section id="about-page" class="page-wrap about">
+ <!-- Start Hero Section -->
+ <section id="about-page" class="page-wrap about">
         <div class="hero-container container">
             <div class="hero-content">
                 <div class="col-sm-12 m-auto text-center white">
-                    <h3 class="h1-md mb10 text-uppercase">Overview</h3>
-                    <h4 class="subheading">Why Apex Holdings/Overview</h4>
+                    <h3 class="h1-md mb10 text-uppercase">Futures Plus</h3>
+                    <h4 class="subheading">Platform and Tools/Futures Plus</h4>
                 </div>
             </div>
         </div>
     </section>
     <!-- End Hero Section -->
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
+
+
+<!-- Start  Feature Section -->
+<section id="features" class="bg-gray section-padding">
         <div class="container">
             <div class="row">
-                <div class="heading  text-left ">
-                    <h2 class="f-xbold">Innovation is written in our code.</h2>
-                    <p>
-                      Apex Holdings is dedicated to empowering traders,
-                     enabling them to seize their financial edge with confidence.
-                    </p>
-                    <p>Whether you're a novice trader or an experienced professional, our comprehensive range of
-                         powerful trading technology, online brokerage services, and trading education is designed to
-                          empower you. We are fully 
-                        committed to helping you unleash your trading and investor potential to the fullest extent.</p>
+                <div class="heading m-auto text-center ">
+                    <h2 class="f-xbold">Harness the Power of Futures Options</h2>
+                    <hr class="seperator">
+                    <p>Get the power of an institutional-grade futures options platform + no platform fees</p>
+                </div>
+            </div>
+            <p>Apex Holdings FuturesPlus powered by Trading Technologies is a feature-rich
+                                 platform for futures options traders. Apex Holdings customers can trade 
+                                 the leading international exchanges and 
+                                liquidity platforms, including CME and ICE, on the web or a mobile device.</p>
+                 </br>
+            <div class="row mb50">
+                <div class="col-md-3 col-sm-3">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Easy order entry</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>No platform fees</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Powerful execution</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Easy order entry</h4>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- End  Feature Section -->
-    
-     <!-- Start parallax Section --->
- <section id="parallax">
-       <div class="overlay-bg"></div>
-        <div class="container">
-            <div class="col-sm-8 text-left  pt100 pb100 border-top">
-                <div class="white text-left parallax-info">
-                    <h1 class="mb10 lspacing">Our Manifesto</h1>
-                    <p>
-                      Our manifesto serves as a vital proclamation, embodying our core values and beliefs.
-                      <br/> It stands as an open invitation, encouraging
-                       individuals to embrace our purpose and become part of our transformative movement.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Parallax Section -->
-    
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
+
+ <!-- Start  Feature Section -->
+ <section id="features" class="bg-gray ">
         <div class="container">
             <div class="row mb50">
-                <div class="">
-                    <div class="feature-box">
-                        
-                        <div class="feature-inner">
-                            <h4>Recognized for excellence</h4>
-                            <p>Apex Holdings has maintained an unwavering dedication to delivering the finest trading 
-                                experience year after year. Our platforms and brokerage services have consistently earned 
-                                accolades and recognition from reputable industry
-                                 reviewers such as Barron's, StockBrokers.com, Investopedia, and Investor's Business Daily.</p>
-                            <a href="awards.php" class="read-more">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                        
-                        <div class="feature-inner">
-                            <h4>The tools you need to put plans into action</h4>
-                            <p>Experience seamless trading of <a href='stocks.php'> stocks</a>,<a href='etfs.php'> ETFs</a>,
-                            <a href='futures.php'> futures</a>, <a href='options.php'> options</a>, 
-                            and <a href='stocks.php'> crypto</a> with dependable
-                                 execution on robust platforms. At Apex Holdings, we provide broad market access, competitive
-                                  pricing models, and a comprehensive suite of tools for traders and investors. 
-                                  Empower yourself with extensive data to test and optimize your strategies, and join a
-                                 vibrant community to share knowledge and acquire new skills across multiple markets.</p>
-                            <a href="introduction.php" class="read-more">Explore our tools</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
+                
                     <div class="feature-box">
                         <div class="feature-inner">
-                            <h4>Market research and insights at your fingertips</h4>
-                            <p>At the core of everything we do lies our unwavering belief in the power of analytics
-                                 over intuition. Our platforms and tools are meticulously infused with extensive historical
-                                  market data spanning several years. This ensures that you have the utmost confidence to test,
-                                 optimize, and execute your own trading strategies with precision and certainty.</p>
+                            <h4>Adding Futures Options to Your Trading</h4>
+                            <p>Download Adding Futures Options to Your Trading to learn:</p>
+                           <ol>
+                            <li>Futures Options eBook</li>
+                            <li>Why traders choose futures options</li>
+                            <li>Reasons to expand your portfolio beyond equities</li>
+                            <li>The benefits of futures options</li>
+                            <li>And much more</li>
+                           </ol>
                         </div>
                     </div>
-                </div>
-            </div>
+          
+                    </br>
+                    </br>
 
-            <div class="row">
-                 <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>We’re committed to your trading success</h4>
-                            <p>YouCanTrade™, a subsidiary of Apex Holdings Group, provides a diverse range of 
-                                multimedia educational and training resources. Our goal is to inspire new trading 
-                                ideas and support you in enhancing your trading skills consistently. 
-                                Explore our comprehensive offerings to further your trading knowledge and expertise.</p>
-                            <a href="lh.php" class="read-more">Learn More</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>Get the support you need when you need it</h4>
-                            <p>Receive prompt and efficient assistance from our dedicated support team whenever you need 
-                                it the most. Contacting Apex Holdings's highly trained staff is quick and convenient through 
-                                various channels including phone, email, live chat, chatbot, or our user-friendly online Client Center. 
-                                We are committed to ensuring your needs are met with the utmost care and responsiveness.</p>
-                            <a href="support.php" class="read-more">Get in touch</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>In a nutshell</h4>
-                            <p>Our commitment is to provide you with access to a comprehensive range
-                                 of tools, platforms, and educational resources that will empower you
-                                  to become a more skilled trader and investor. Take the first step towards unlocking
-                                 your trading potential by opening an account with us today.</p>
-                            <a href="signup.php" class="read-more">Open account</a>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
     <!-- End  Feature Section -->
-    
-    <!-- Start Footer section    -->
+  
+
+ <!-- Start  Feature Section -->
+ <section id="features" class="bg-gray ">
+        <div class="container">
+            <div class="row mb50">
+                
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h3>Enhanced Market Views</h3>
+                            <ol>
+                            <li><b>Visualize. </b>See options prices in an industry-standard market view, with calls and puts displayed by expiry</li>
+                            <li><b>Create Strategies. </b>Build pre-defined or custom options strategies and submit them to exchanges for listing</li>
+                            <li><b>Analyze. </b>View implied volatility, theoretical prices, and Greeks calculated by FuturesPlus using industry-standard options models</li>
+                            <li><b>Identify. </b>Monitor time and sales and RFQs and look for trade opportunities based on your criteria</li>
+                            <li><b>Manage risk. </b>View Greeks and risk metrics of options positions and assess performance across multiple user-defined scenarios</li>
+                           </ol>
+                        </div>
+                    </div>
+               
+                     </br>
+                     </br>
+          
+                     <div class="feature-box">
+                        <div class="feature-inner">
+                            <h3>Get on the go futures options trading</h3>
+                            <p>Pocket the power of FuturesPlus and trade on the go with our web and 
+                                mobile apps that gives you the functionality and capabilities you need:</p>
+                            <ol>
+                            <li>Keep an eye on the markets, investment objectives, and your orders on the go</li>
+                            <li>View market data</li>
+                            <li>Enter, monitor, adjust and cancel orders from an order ticket or MD Trader ladder</li>
+                            <li>Access fills, positions and complete audit trail history back to the day your account was created</li>
+                           </ol>
+                        </div>
+                    </div>
+               
+                     </br>
+                     </br>
+
+                     <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Customized Trading</h4>
+                            <ol>
+                            <li>Use FuturesPlus’s autofit vol curve to generate theoretical values or apply your own vol curve using Vol Curve Manager</li>
+                            <li>View all market activity for options by product or product family using Trade Monitor</li>
+                            <li>Send RFQs directly from Strategy Creation, Market Grid, Watchlist, RFQ Viewer, or Options Chain</li>
+                            <li>Monitor custom strategies privately using Watchlist before sending RFQs</li>
+                            <li>Customize the view of your portfolio using first and second-order Greeks</li>
+                            <li>Apply varECP s “what if” scenarios to open positions based on underlying and volatility shocks</li>
+                           </ol>
+                        </div>
+                    </div>
+               
+                     </br>
+                     </br>
+            </div>
+        </div>
+    </section>
+    <!-- End  Feature Section -->
+  
+    <!-- Start  Feature Section -->
+    <section id="features" class="bg-gray ">
+        <div class="container">
+            <div class="row">
+                 <div class="col-md-12 col-sm-12">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h6>IMPORTANT INFORMATION</h6>
+                                <p class='h6'>
+                                * Visit <a href='index.php'>ecpfinance.org/Awards</a> for details.
+                                </p>
+
+                                <p class='h6'>
+                                Options trading may not be suitable for every investor. It involves 
+                                entering into contracts to buy or sell specific financial products 
+                                at predetermined prices on specified dates. Fees may be charged for
+                                 exercising or assigning options upon expiration. In the case of 
+                                 early exercise or assignment, a fee of $1.50 per contract will be 
+                                 incurred. Additionally, a National Futures Association (NFA) fee of 
+                                 $0.02 per contract is applicable to all options transactions. It's 
+                                 important to take these costs into account when assessing the potential 
+                                 profitability of futures options trades before initiating any trade. For
+                                  comprehensive information on the characteristics and risks associated with 
+                                  standardized options, as well as the CFTC Risk Disclosure Statement – Appendix 
+                                  A to Rule 1.55, please refer to the document available at ecpfinance.org. 
+                                You can find complete pricing details at ecpfinance.org/Pricing.
+                                </p>
+                                
+                                <p class='h6'>
+                                Pricing pertains to brand-new single-tier per-contract futures accounts. 
+                                These accounts will receive Apex Holdings FuturesPlus without any additional
+                                 charges. Qualified non-professional subscribers will also receive complimentary
+                                  real-time Globex and E-mini Level 1 market data, as well as Market Depth data 
+                                  for CME, CBOT, COMEX, and NYMEX.
+
+                                For single-tier accounts that do not maintain an average end-of-month equity balance 
+                                of at least $2,000 or fail to execute at least five (5) trades in the preceding 12
+                                 months, an annual fee of $50 will be applied.
+
+                                If you currently have, or plan to open, either (1) another equities account with 
+                                different terms, per-share pricing, unbundled services, or alternative promotions 
+                                before 3/3/17, or (2) a tiered-commission futures account, a monthly account service
+                                 fee of $99.95 will be levied on accounts not meeting the requirement of maintaining
+                                  an end-of-month equity balance of at least $100,000, executing at least 5,000 shares,
+                                   or trading at least 50 options contracts or ten round-turn futures contracts in the 
+                                   preceding month.
+
+                                For a comprehensive breakdown of pricing details, please visit ecpfinance.org/Pricing.
+                                </p>
+
+                                <p class='h6'>
+                                No offer or solicitation is being made by any affiliate of Apex Holdings to buy or sell 
+                                securities, securities derivatives, futures products, or to provide any form of trading 
+                                or investment advice, recommendations, or strategies. The past performance of strategies,
+                                 whether indicated by actual results or historical tests, does not guarantee future 
+                                 performance or success.
+
+                                Engaging in active trading may not be suitable for individuals with limited resources,
+                                 minimal investment or trading experience, or a low-risk tolerance. For pertinent risk
+                                  disclosures, please refer to our websites at www.ecpfinance.org or www.tradestation-international.com.
+
+                                Please note that access to systems, trade placement, and execution may experience delays 
+                                or failures due to market volatility, trading volume, quote delays, system and software 
+                                errors, Internet congestion, service interruptions, and other related factors. Equities, 
+                                equities options, and commodity futures products and services are provided by Apex Holdings
+                                 Securities, Inc., a member of
+                                NYSE, FINRA, CME, and SIPC. All rights reserved by © Apex Holdings.
+                                </p>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        </br>
+            </br>
+    </section>
+    <!-- End  Feature Section -->
+            
+           
+     
+       <!-- Start Footer section    -->
     <footer id="footer-main">
         <div class="container">
 

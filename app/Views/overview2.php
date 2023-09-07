@@ -144,148 +144,233 @@
             <div class="hero-content">
                 <div class="col-sm-12 m-auto text-center white">
                     <h3 class="h1-md mb10 text-uppercase">Overview</h3>
-                    <h4 class="subheading">Why Apex Holdings/Overview</h4>
+                    <h4 class="subheading">Trading Products/Overview</h4>
                 </div>
             </div>
         </div>
     </section>
     <!-- End Hero Section -->
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
+    
+<!-- Start  Feature Section -->
+<section id="features" class="bg-gray section-padding">
         <div class="container">
             <div class="row">
-                <div class="heading  text-left ">
-                    <h2 class="f-xbold">Innovation is written in our code.</h2>
-                    <p>
-                      Apex Holdings is dedicated to empowering traders,
-                     enabling them to seize their financial edge with confidence.
-                    </p>
-                    <p>Whether you're a novice trader or an experienced professional, our comprehensive range of
-                         powerful trading technology, online brokerage services, and trading education is designed to
-                          empower you. We are fully 
-                        committed to helping you unleash your trading and investor potential to the fullest extent.</p>
+                <div class="heading">
+                    <h2 class="f-xbold">Trade Stocks, ETFs, Crypto, Options, Futures and more</h2>
+                </div>
+            </div>
+           
+            <div class="row mb50">
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Stocks</h4>
+                            <p>Enjoy commission-free* equities trading with full access to all our award-winning trading technology,
+                                 free real-time market data packages, and massive historical stock market data.</p>
+                            <a href="stocks.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>ETFs</h4>
+                            <p>Strengthen and diversify your portfolio with access to over 2,000 commission-free* ETFs.
+                                 With an array of advanced tools, you can explore opportunities to meet your investing</p>
+                            <a href="etfs.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Options</h4>
+                            <p>Whether you are new to Options or a seasoned veteran, 
+                                we have you covered with great tools, vast education, and competitive pricing.</p>
+                            <a href="options.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- End  Feature Section -->
+
     
+<!-- Start  Feature Section -->
+<section id="features" class="bg-gray ">
+        <div class="container">
+           
+            <div class="row mb50">
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Futures</h4>
+                            <p>Trade a great variety of Futures contracts with competitive pricing. Many futures contracts are highly 
+                                liquid and provide a great opportunity if you’re interested in day trading.</p>
+                            <a href="stocks.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Future Options</h4>
+                            <p>Gain access to the next generation of Futures Options trading with our FuturesPlus offering.</p>
+                            <a href="futuresp.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Crypto</h4>
+                            <p>Start trading the future by adding digital currencies to your arsenal. 
+                                Trade Bitcoin, Litecoin, Ethereum, and more, in a single platform.</p>
+                            <a href="crypto.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End  Feature Section -->
+
+<!-- Start  Feature Section -->
+<section id="features" class="bg-gray ">
+</br>
+</br>
+</br>
+</br>
+        <div class="container">
+           
+            <div class="row mb50">
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>IPOs</h4>
+                            <p>Be among the first to access shares of rising companies before they go public.</p>
+                            <a href="ipo.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Mutual Funds</h4>
+                            <p>Diversify your trading portfolio with Mutual Funds aligned to a variety of investment strategies.</p>
+                            <a href="mutual.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Bonds</h4>
+                            <p>Access a broad range of choices, including the U.S. Treasury, Corporate and Municipal Bonds.</p>
+                            <a href="bonds.php" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End  Feature Section -->
+
+
+<!-- Start  Feature Section -->
+<section id="features" class="bg-gray section-padding">
+        <div class="container">
+            <div class="row mb50">
+                <div class="">
+                    <div class="feature-box">
+                       
+                        <div class="feature-inner">
+                            <h6>* Additional Information on Pricing</h6>
+                            <p class='h6'>1. ECP Select and ECP GO: Available only to U.S. residents. “Commission-free” for equities
+                                 trades applies only to the first 10,000 shares per trade — for each order of more than
+                                  10,000 shares, a $0.005 per share charge will be assessed on the number of shares in 
+                                  excess of 10,000. Direct-routed equity orders will be charged an additional $0.005 per
+                                   share. There will be a $1.00 per contract fee for index options. Direct routing of 
+                                   options orders incurs an additional $1.00 per contract fee. Basic market data is 
+                                   available at no charge only
+                                 to non-professional subscribers. Other market data fees may apply if you add markets.</p>
+
+                                 <p class='h6'>
+                                 2. ECP GO: ECP GO rates apply only to mobile app and web trading. If you are
+                                  on this plan and place trades using the Apex Holdings Desktop platform, 
+                                  an additional $10.00 fee will apply to each equities and options trade you 
+                                  make. For futures trades, a $1.40 surcharge per contract will apply. 
+                                 You can avoid these higher desktop fees by using the ECP Select price plan.
+                                </p>
+                           
+                                <p class='h6'>
+                                3. Apex Holdings Desktop Platform: You must use the Apex Holdings Desktop platform to receive 
+                                RadarScreen, OptionStation Pro, Portfolio Maestro, Apex Holdings Scanner, Easy Language,
+                                 Strategy Back-testing, the full Matrix, and the ability to use TradingApp Store products.
+                                 </p>
+                                 
+                                 <p class='h6'>
+                                 4. Certain Options Strategies: There are additional costs associated with option
+                                  strategies that call for multiple purchases and sales of options,
+                                  such as spreads, straddles, and collars, as compared with a single option trade.
+                                 </p>
+
+                                 <p class='h6'>
+                                 5. Other Fees and Charges: Service fees, market data fees, premium service fees 
+                                 and other fees and charges may apply. Please visit service fees section.
+                                 </p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End  Feature Section -->
+
+    <!-- Start  Feature Section -->
+<section id="features" class="bg-gray">
+        <div class="container">
+            <div class="row mb50">
+                <div class="">
+                    <div class="feature-box">
+                       
+                        <div class="feature-inner">
+                            <h6>Apex Holdings Securities, Inc., Apex Holdings Crypto, Inc., and Apex 
+                                Holdings Technologies, Inc. are each wholly owned subsidiaries of Apex
+                                 Holdings Group, Inc., all operating, and providing products and services,
+                                  under theApex Holdings brand and trademark. You Can Trade, Inc. is also
+                                   a wholly owned subsidiary of Apex Holdings Group, Inc., operating under
+                                    its own brand and trademarks. When applying for, or purchasing, accounts, 
+                                    subscriptions, products and services, 
+                                it is important that you know which company you will be dealing with.</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End  Feature Section -->
+
      <!-- Start parallax Section --->
  <section id="parallax">
        <div class="overlay-bg"></div>
         <div class="container">
             <div class="col-sm-8 text-left  pt100 pb100 border-top">
                 <div class="white text-left parallax-info">
-                    <h1 class="mb10 lspacing">Our Manifesto</h1>
+                    <h1 class="mb10 lspacing">Ready to get started?</h1>
                     <p>
-                      Our manifesto serves as a vital proclamation, embodying our core values and beliefs.
-                      <br/> It stands as an open invitation, encouraging
-                       individuals to embrace our purpose and become part of our transformative movement.
+                    It only takes a few minutes to open an account today and start trading with Apex Holdings.
                     </p>
+                    <a href="signup.php" class="read-more">Open account</a>
                 </div>
             </div>
         </div>
     </section>
     <!--End Parallax Section -->
     
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
-        <div class="container">
-            <div class="row mb50">
-                <div class="">
-                    <div class="feature-box">
-                        
-                        <div class="feature-inner">
-                            <h4>Recognized for excellence</h4>
-                            <p>Apex Holdings has maintained an unwavering dedication to delivering the finest trading 
-                                experience year after year. Our platforms and brokerage services have consistently earned 
-                                accolades and recognition from reputable industry
-                                 reviewers such as Barron's, StockBrokers.com, Investopedia, and Investor's Business Daily.</p>
-                            <a href="awards.php" class="read-more">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                        
-                        <div class="feature-inner">
-                            <h4>The tools you need to put plans into action</h4>
-                            <p>Experience seamless trading of <a href='stocks.php'> stocks</a>,<a href='etfs.php'> ETFs</a>,
-                            <a href='futures.php'> futures</a>, <a href='options.php'> options</a>, 
-                            and <a href='stocks.php'> crypto</a> with dependable
-                                 execution on robust platforms. At Apex Holdings, we provide broad market access, competitive
-                                  pricing models, and a comprehensive suite of tools for traders and investors. 
-                                  Empower yourself with extensive data to test and optimize your strategies, and join a
-                                 vibrant community to share knowledge and acquire new skills across multiple markets.</p>
-                            <a href="introduction.php" class="read-more">Explore our tools</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                        <div class="feature-inner">
-                            <h4>Market research and insights at your fingertips</h4>
-                            <p>At the core of everything we do lies our unwavering belief in the power of analytics
-                                 over intuition. Our platforms and tools are meticulously infused with extensive historical
-                                  market data spanning several years. This ensures that you have the utmost confidence to test,
-                                 optimize, and execute your own trading strategies with precision and certainty.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                 <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>We’re committed to your trading success</h4>
-                            <p>YouCanTrade™, a subsidiary of Apex Holdings Group, provides a diverse range of 
-                                multimedia educational and training resources. Our goal is to inspire new trading 
-                                ideas and support you in enhancing your trading skills consistently. 
-                                Explore our comprehensive offerings to further your trading knowledge and expertise.</p>
-                            <a href="lh.php" class="read-more">Learn More</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>Get the support you need when you need it</h4>
-                            <p>Receive prompt and efficient assistance from our dedicated support team whenever you need 
-                                it the most. Contacting Apex Holdings's highly trained staff is quick and convenient through 
-                                various channels including phone, email, live chat, chatbot, or our user-friendly online Client Center. 
-                                We are committed to ensuring your needs are met with the utmost care and responsiveness.</p>
-                            <a href="support.php" class="read-more">Get in touch</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>In a nutshell</h4>
-                            <p>Our commitment is to provide you with access to a comprehensive range
-                                 of tools, platforms, and educational resources that will empower you
-                                  to become a more skilled trader and investor. Take the first step towards unlocking
-                                 your trading potential by opening an account with us today.</p>
-                            <a href="signup.php" class="read-more">Open account</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End  Feature Section -->
+    
     
     <!-- Start Footer section    -->
     <footer id="footer-main">
