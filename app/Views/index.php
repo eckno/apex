@@ -46,8 +46,8 @@
                     <span class="icon-bar bottom-bar"></span>
                 </button>
                 <a data-scroll href="#hero" class="navbar-brand">
-                    <img src="img/assets/logo-light.png" class="logo-light" alt="#">
-                    <img src="img/assets/logo-dark.png" class="logo-dark" alt="#">
+                    <img src="img/assets/logo-light.png"  class="logo-light" alt="#">
+                    <img src="img/assets/logo-dark.png"  class="logo-dark" alt="#">
                 </a>
             </div>
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">

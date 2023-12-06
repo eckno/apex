@@ -125,7 +125,6 @@
                             <li><a href="ltt.php" class="page-scroll">LEARN TO TRADE</a></li>
                             <li><a href="uah.php" class="page-scroll">USING APEX HOLDINGS</a></li>
                             <li><a href="faqs.php" class="page-scroll">FAQs</a></li>
-                            <li><a href="mi.php" class="page-scroll">MARKET INSIGHTS </a></li>
                         </ul>
                     </li>
                     <li class="quote">

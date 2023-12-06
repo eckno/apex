@@ -10,7 +10,7 @@
     <meta name="description" content="BitBank,multipurpose,business,agency,modern,bootstrap,bootstrap template,responsive,html,css,unique,professional,onepage,creative,template,design,web design,crypto,bitcoin,currency">
     <meta name="author" content="Dreambuzz">
 
-    <title>Overview | Apex Holdings</title>
+    <title>IPOs | Apex Holdings</title>
 
     <link href="img/assets/favicon.ico" rel="icon" type="image/ico">
 
@@ -125,7 +125,6 @@
                             <li><a href="ltt.php" class="page-scroll">LEARN TO TRADE</a></li>
                             <li><a href="uah.php" class="page-scroll">USING APEX HOLDINGS</a></li>
                             <li><a href="faqs.php" class="page-scroll">FAQs</a></li>
-                            <li><a href="mi.php" class="page-scroll">MARKET INSIGHTS </a></li>
                         </ul>
                     </li>
                     <li class="quote">
@@ -137,157 +136,118 @@
     </nav>
     <!-- End Header Section -->
 
-
-    <!-- Start Hero Section -->
-    <section id="about-page" class="page-wrap about">
+ <!-- Start Hero Section -->
+ <section id="about-page" class="page-wrap about">
         <div class="hero-container container">
             <div class="hero-content">
                 <div class="col-sm-12 m-auto text-center white">
-                    <h3 class="h1-md mb10 text-uppercase">Overview</h3>
-                    <h4 class="subheading">Why Apex Holdings/Overview</h4>
+                    <h3 class="h1-md mb10 text-uppercase">IPOs</h3>
+                    <h4 class="subheading">Trading Products/IPOs</h4>
                 </div>
             </div>
         </div>
     </section>
     <!-- End Hero Section -->
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
+
+
+<!-- Start  Feature Section -->
+<section id="features" class="bg-gray section-padding">
         <div class="container">
             <div class="row">
-                <div class="heading  text-left ">
-                    <h2 class="f-xbold">Innovation is written in our code.</h2>
-                    <p>
-                      Apex Holdings is dedicated to empowering traders,
-                     enabling them to seize their financial edge with confidence.
-                    </p>
-                    <p>Whether you're a novice trader or an experienced professional, our comprehensive range of
-                         powerful trading technology, online brokerage services, and trading education is designed to
-                          empower you. We are fully 
-                        committed to helping you unleash your trading and investor potential to the fullest extent.</p>
+                <div class="heading ">
+                    <h2 class="f-xbold">Gain access to IPOs through Apex Holdings</h2>
+                   
+                    <p>In the past, it’s been nearly impossible for retail traders 
+                        to access initial public offerings (IPOs) BEFORE the shares 
+                        become available on the exchanges.
+                        That’s no longer the case</p>
                 </div>
-            </div>
+                </br>
+                <p>Apex Holdings clients now have access to certain ground-floor initial public offerings (IPOs),
+                     secondary offerings, 
+                    and follow-on offerings available in the mobile-first ClickIPO app.</p>
+            </br>
+        <p>Browse IPOs and view the price range, anticipated offering date, SEC prospectus and more</p>  
+        <p>Simply place a conditional order for shares through your Apex Holdings account, 
+            and if shares are allocated, they will be placed directly into your account </p>
+        </div>
         </div>
     </section>
     <!-- End  Feature Section -->
-    
-     <!-- Start parallax Section --->
- <section id="parallax">
+
+    <!-- Start parallax Section --->
+    <section id="parallax">
        <div class="overlay-bg"></div>
         <div class="container">
-            <div class="col-sm-8 text-left  pt100 pb100 border-top">
-                <div class="white text-left parallax-info">
-                    <h1 class="mb10 lspacing">Our Manifesto</h1>
-                    <p>
-                      Our manifesto serves as a vital proclamation, embodying our core values and beliefs.
-                      <br/> It stands as an open invitation, encouraging
-                       individuals to embrace our purpose and become part of our transformative movement.
-                    </p>
+            <div class="col-sm-8 text-center m-auto pt100 pb100 border-top">
+                <div class="white text-center parallax-info">
+                    <h1 class="mb10 lspacing">Sounds like a sweet deal? We think so, too.</h1>
+                    <a href="signup.php" class="read-more">Click here to open an account.</a>
                 </div>
             </div>
         </div>
     </section>
     <!--End Parallax Section -->
+
+ <!-- Start  Feature Section -->
+ <section id="features" class="bg-gray ">
     
-    <!-- Start  Feature Section -->
-    <section id="features" class="bg-gray section-padding">
+</br>
+
+</br>
         <div class="container">
-            <div class="row mb50">
-                <div class="">
-                    <div class="feature-box">
-                        
-                        <div class="feature-inner">
-                            <h4>Recognized for excellence</h4>
-                            <p>Apex Holdings has maintained an unwavering dedication to delivering the finest trading 
-                                experience year after year. Our platforms and brokerage services have consistently earned 
-                                accolades and recognition from reputable industry
-                                 reviewers such as Barron's, StockBrokers.com, Investopedia, and Investor's Business Daily.</p>
-                            <a href="awards.php" class="read-more">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                        
-                        <div class="feature-inner">
-                            <h4>The tools you need to put plans into action</h4>
-                            <p>Experience seamless trading of <a href='stocks.php'> stocks</a>,<a href='etfs.php'> ETFs</a>,
-                            <a href='futures.php'> futures</a>, <a href='options.php'> options</a>, 
-                            and <a href='stocks.php'> crypto</a> with dependable
-                                 execution on robust platforms. At Apex Holdings, we provide broad market access, competitive
-                                  pricing models, and a comprehensive suite of tools for traders and investors. 
-                                  Empower yourself with extensive data to test and optimize your strategies, and join a
-                                 vibrant community to share knowledge and acquire new skills across multiple markets.</p>
-                            <a href="introduction.php" class="read-more">Explore our tools</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                        <div class="feature-inner">
-                            <h4>Market research and insights at your fingertips</h4>
-                            <p>At the core of everything we do lies our unwavering belief in the power of analytics
-                                 over intuition. Our platforms and tools are meticulously infused with extensive historical
-                                  market data spanning several years. This ensures that you have the utmost confidence to test,
-                                 optimize, and execute your own trading strategies with precision and certainty.</p>
-                        </div>
-                    </div>
+        <div class="row">
+                <div class=" ">
+                    <h4 class="f-xbold">Features of ClickIPO</h4>
+                   </br>
+                    <p>ClickIPO is a mobile-based order entry platform that gives retail investors access
+                         to IPOs and secondary offerings. All you need is a Apex Holdings equities 
+                        brokerage account with a minimum balance of $500, and you’re ready to get started.</p>
+                    </br>
+                    </br>
+                    <p class='h6'>There are specific risks in investing in an IPO. For more information.</p>
                 </div>
             </div>
+            </br>
+                     </br>
+            <div class="row mb50">
+                
+                    <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>With ClickIPO, you can:</h4>
+                           <ol>
+                            <li>Gain access to a listing of current, past, and upcoming IPOs and secondary offerings.</li>
+                            <li>Follow offerings that interest you and get push alerts for new and updated offerings.</li>
+                            <li>Customize an IPO watchlist.</li>
+                            <li>Read the prospectus of each offering within the app.</li>
+                          </ol>
+                        </div>
+                    </div>
+               
+                     </br>
+                     </br>
+                    
+                     <div class="feature-box">
+                        <div class="feature-inner">
+                            <h4>Pricing and Funding</h4>
+                            <ol>
+                            <li>When you purchase IPO stock in your Apex Holdings account using ClickIPO, there’s no commission on the trade. If the stock is
+                                 priced at $10 per share, you’ll pay $10 per share – no more, no less.</li>
+                            <li>IPO stock cannot be purchased using margin. You must have sufficient unrestricted cash in your account to pay for your IPO shares.</li>
+                          </ol>
+                            </div>
+                    </div>
+                   
+                
+                    
 
-            <div class="row">
-                 <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>We’re committed to your trading success</h4>
-                            <p>YouCanTrade™, a subsidiary of Apex Holdings Group, provides a diverse range of 
-                                multimedia educational and training resources. Our goal is to inspire new trading 
-                                ideas and support you in enhancing your trading skills consistently. 
-                                Explore our comprehensive offerings to further your trading knowledge and expertise.</p>
-                            <a href="lh.php" class="read-more">Learn More</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>Get the support you need when you need it</h4>
-                            <p>Receive prompt and efficient assistance from our dedicated support team whenever you need 
-                                it the most. Contacting Apex Holdings's highly trained staff is quick and convenient through 
-                                various channels including phone, email, live chat, chatbot, or our user-friendly online Client Center. 
-                                We are committed to ensuring your needs are met with the utmost care and responsiveness.</p>
-                            <a href="support.php" class="read-more">Get in touch</a>
-                        </div>
-                    </div>
-                </div>
-                <br/>
-                <br/>
-                <div class="">
-                    <div class="feature-box">
-                       
-                        <div class="feature-inner">
-                            <h4>In a nutshell</h4>
-                            <p>Our commitment is to provide you with access to a comprehensive range
-                                 of tools, platforms, and educational resources that will empower you
-                                  to become a more skilled trader and investor. Take the first step towards unlocking
-                                 your trading potential by opening an account with us today.</p>
-                            <a href="signup.php" class="read-more">Open account</a>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
     <!-- End  Feature Section -->
-    
-    <!-- Start Footer section    -->
+  
+
+       <!-- Start Footer section    -->
     <footer id="footer-main">
         <div class="container">
 
